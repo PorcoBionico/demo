@@ -1,0 +1,22 @@
+[
+    {
+        "nome": "Toby",
+        "livro": "intro a",
+        "idade": 42
+    },
+    {
+        "nome": "Angela",
+        "livro": "intro b",
+        "idade": 30
+    },
+    {
+        "nome": "Micheal",
+        "livro": "1a",
+        "idade": 42
+    },
+    {
+        "nome": "Dwight",
+        "livro": "1b",
+        "idade": 35
+    }
+]
