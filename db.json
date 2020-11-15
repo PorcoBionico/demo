@@ -5,28 +5,28 @@
       "book": "Intro A",
       "exercise": "unit 9 ex 7",
       "grammar": "present continuous",
-      "students": ["Angela", "Dwight", "Michael", "Toby"],
+      "students": [ "Angela", "Dwight", "Michael", "Toby" ]
     },
     {
       "time": "10:30",
       "book": "Intro B",
       "exercise": "unit 12 ex 3",
       "grammar": "future with continuous",
-      "students": ["Goku", "Gohan"],
+      "students": [ "Goku", "Gohan" ]
     },
     {
       "time": "16:30",
       "book": "2 A",
       "exercise": "unit 12 ex 10",
       "grammar": "future with will",
-      "students": "Aang, Katara, Zuko, Sokka"
+      "students": [ "Aang", "Katara", "Zuko", "Sokka" ]
     },
     {
       "time": "18:00",
       "book": "3 B",
       "exercise": "unit 10 ex 3",
       "grammar": "future with be going to",
-      "students": "Cat, Dog, Moose"
+      "students": [ "Cat", "Dog", "Moose" ]
     }
   ]
 }
