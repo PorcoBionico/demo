@@ -1,40 +1,40 @@
 [
   {
     "day": "mon",
-    "first": "09:30, intro A",
-    "second": "10:30, 2A",
-    "third": "14:00, 3A",
-    "fourth": "14:00, livre"
+    "first": "09:30 in A",
+    "second": "10:30 2A",
+    "third": "14:00 3A",
+    "fourth": "14:00 free"
   },
   {
     "day": "tue",
-    "first": "10:15, intro B",
-    "second": "14:00, free",
-    "third": "16:00, 2B",
-    "fourth": "17:00, 1A"
+    "first": "10:1, in B",
+    "second": "14:00 free",
+    "third": "16:00 2B",
+    "fourth": "17:00 1A"
   },
   {
     "day": "wed",
-    "first": "09:30, intro A",
-    "second": "10:30, 2A",
-    "third": "14:00, 3A",
-    "fourth": "14:00, livre"
+    "first": "09:30 in A",
+    "second": "10:30 2A",
+    "third": "14:00 3A",
+    "fourth": "14:00 free"
   },
   {
     "day": "thu",
-    "first": "10:15, intro B",
-    "second": "14:00, free",
-    "third": "16:00, 2B",
-    "fourth": "17:00, 1A"
+    "first": "10:15 in B",
+    "second": "14:00 free",
+    "third": "16:00 2B",
+    "fourth": "17:00 1A"
   },
   {
     "day": "fri",
-    "first": "8:15, adv"
+    "first": "8:15 adv"
   },
   {
     "day": "sat",
-    "first": "08:30, intro A",
-    "second": "11:30, intro B",
-    "third": "15:00, free"
+    "first": "08:30 in A",
+    "second": "11:30 in B",
+    "third": "15:00 free"
   }
 ]
