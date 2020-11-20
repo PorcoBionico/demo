@@ -6,7 +6,7 @@
       "exercise": "unit 9 ex 7",
       "grammar": "present continuous",
       "students": [ "Angela", "Dwight", "Michael", "Toby" ],
-      "details_sent": true
+      "detailsSent": true
     },
     {
       "time": "10:30",
@@ -14,7 +14,7 @@
       "exercise": "unit 12 ex 3",
       "grammar": "future with continuous",
       "students": [ "Goku", "Gohan", "Bulma" ],
-      "details_sent": false
+      "detailsSent": false
     },
     {
       "time": "16:30",
@@ -22,7 +22,7 @@
       "exercise": "unit 12 ex 10",
       "grammar": "future with will",
       "students": [ "Aang", "Katara", "Zuko", "Sokka" ],
-      "details_sent": false
+      "detailsSent": false
     },
     {
       "time": "18:00",
@@ -30,7 +30,7 @@
       "exercise": "unit 10 ex 3",
       "grammar": "future with be going to",
       "students": [ "Cat", "Dog", "Moose" ],
-      "details_sent": false
+      "detailsSent": false
     }
   ]
 }
