@@ -1,0 +1,35 @@
+{ "students" :
+  [
+    {
+        "name": "Eduardo Abilio",
+        "book": "3A",
+        "currentteacher": "Rennan",
+        "situation": "Ok",
+        "classes": [
+                      {
+                      "class1": [ {"subject": "present with do and does", "presence": true, "performance": 5, "homework": 92} ],
+                      "class2": [ {"subject": "present with do and does", "presence": true, "performance": 4, "homework": "-"} ],
+                      "class3": [ {"subject": "present with do and does", "presence": false, "performance": 0, "homework": 0} ],
+                      "class4": [ {"subject": "present continuous", "presence": true, "performance": 5, "homework": 84} ],
+                      "class5": [ {"subject": "present continuous", "presence": true, "performance": 3, "homework": 65} ],
+                      "class6": [ {"subject": "present continuouss", "presence": true, "performance": 3, "homework": 85} ],
+                      "class7": [ {"subject": "present continuous negative", "presence": true, "performance": 4, "homework": 92} ],
+                      "class8": [ {"subject": "simple past", "presence": true, "performance": 5, "homework": 100 ],
+                      }
+                   ]
+
+        
+        "scores": [{ "writtentest1": 95, "writtentest2": "-",  "oraltest1": 85, "oraltest2": "-" }],
+
+        "currentaverageperformance": 4,
+        "currentaveragehomework": 92,
+        "lifetimeperformance": 84,
+        "lifetimegrade": 72,
+        "missedclasses": 5,        
+        "teachercomments": [ {1: [{"date": "14/04/2019", "teacher": "Durval", "comment": "I dont like his attittude" }],
+                              2: [{"date": "17/04/2020", "teacher": "Rennan", "comment": "I dont like his attittude at all, he is driving me crazy" }],
+                              }]
+        "lifetimenumberofclasses": 65
+    }
+  ]
+}
