@@ -1,0 +1,35 @@
+
+[
+    {
+        "name": "Amanda Agostinho",
+        "book": "Intro A",
+        "day": "mon-wed",
+        "time": "17:00hrs",
+        "teacher": "Brock",
+        "situation": "ok"
+    },
+    {
+        "name": "Eduardo Reolon",
+        "book": "Intro B",
+        "day": "mon-wed",
+        "time": "17:00hrs",
+        "teacher": "Carvalho",
+        "situation": "ok"
+    },
+    {
+        "name": "Francielly Almeida",
+        "book": "2 B",
+        "day": "tue-thu",
+        "time": "9:00hrs",
+        "teacher": "Ash",
+        "situation": "canceled"
+    },
+    {
+        "name": "Guilherme Senke",
+        "book": "ADV",
+        "day": "sat",
+        "time": "5:30hrs",
+        "teacher": "Misty",
+        "situation": "ok"
+    }
+]
