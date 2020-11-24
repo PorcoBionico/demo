@@ -6,8 +6,6 @@
         "currentteacher": "Rennan",
         "situation": "Ok",
         "classes": [
-                      {
-                       [ 
                         {"classNumber": 1, "subject": "present with do and does", "presence": true, "performance": 5, "homework": 92},
                         {"classNumber": 2, "subject": "present with do and does", "presence": true, "performance": 4, "homework": "-"},
                         {"classNumber": 3, "subject": "present with do and does", "presence": false, "performance": 0, "homework": 0},
@@ -16,8 +14,6 @@
                         {"classNumber": 6, "subject": "present continuouss", "presence": true, "performance": 3, "homework": 85},
                         {"classNumber": 7, "subject": "present continuous negative", "presence": true, "performance": 4, "homework": 92},
                         {"classNumber": 8, "subject": "simple past", "presence": true, "performance": 5, "homework": 100} 
-                        ]
-                      }
                    ],
 
         
