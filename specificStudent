@@ -14,7 +14,7 @@
                       "class5": [ {"subject": "present continuous", "presence": true, "performance": 3, "homework": 65} ],
                       "class6": [ {"subject": "present continuouss", "presence": true, "performance": 3, "homework": 85} ],
                       "class7": [ {"subject": "present continuous negative", "presence": true, "performance": 4, "homework": 92} ],
-                      "class8": [ {"subject": "simple past", "presence": true, "performance": 5, "homework": 100 ],
+                      "class8": [ {"subject": "simple past", "presence": true, "performance": 5, "homework": 100} ],
                       }
                    ]
 
