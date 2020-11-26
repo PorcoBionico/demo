@@ -7,7 +7,7 @@
         "situation": "Ok",
         "classes": [
                         {"classNumber": 1, "subject": "present with do and does", "presence": true, "performance": 5, "homework": 1},
-                        {"classNumber": 2, "subject": "present with do and does", "presence": true, "performance": 4, "homework": "-"},
+                        {"classNumber": 2, "subject": "present with do and does", "presence": true, "performance": 4, "homework": 0},
                         {"classNumber": 3, "subject": "present with do and does", "presence": false, "performance": 0, "homework": 1},
                         {"classNumber": 4, "subject": "present continuous", "presence": true, "performance": 5, "homework": 2},
                         {"classNumber": 5, "subject": "present continuous", "presence": true, "performance": 3, "homework": 1},
@@ -22,8 +22,23 @@
                         {"classNumber": 14, "subject": "present with do and does and simple past", "presence": true, "performance": 4, "homework": 2},
                         {"classNumber": 15, "subject": "present with do and does and simple past", "presence": true, "performance": 5, "homework": 3},
                         {"classNumber": 16, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
-                        {"classNumber": 17, "subject": "simple past", "presence": true, "performance": 4, "homework": 7},
-                        {"classNumber": 18, "subject": "simple past", "presence": true, "performance": 5, "homework": 1}
+                        {"classNumber": 17, "subject": "simple past", "presence": true, "performance": 4, "homework": 0},
+                        {"classNumber": 18, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 19, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 20, "subject": "simple past", "presence": true, "performance": 4, "homework": 2},
+                        {"classNumber": 21, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 22, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 23, "subject": "simple past", "presence": true, "performance": 3, "homework": 7},
+                        {"classNumber": 24, "subject": "simple past", "presence": true, "performance": 3, "homework": 1},
+                        {"classNumber": 25, "subject": "simple past", "presence": true, "performance": 2, "homework": 1},
+                        {"classNumber": 26, "subject": "simple past", "presence": true, "performance": 2, "homework": 2},
+                        {"classNumber": 27, "subject": "simple past", "presence": true, "performance": 2, "homework": 3},
+                        {"classNumber": 28, "subject": "simple past", "presence": true, "performance": 1, "homework": 4},
+                        {"classNumber": 29, "subject": "simple past", "presence": true, "performance": 2, "homework": 5},
+                        {"classNumber": 30, "subject": "simple past", "presence": true, "performance": 5, "homework": 0},
+                        {"classNumber": 31, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 32, "subject": "simple past", "presence": true, "performance": 4, "homework": 2},
+                        {"classNumber": 33, "subject": "simple past", "presence": true, "performance": 5, "homework": 1}
                    ],
 
         
