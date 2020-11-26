@@ -6,14 +6,24 @@
         "currentteacher": "Rennan",
         "situation": "Ok",
         "classes": [
-                        {"classNumber": 1, "subject": "present with do and does", "presence": true, "performance": 5, "homework": 92},
+                        {"classNumber": 1, "subject": "present with do and does", "presence": true, "performance": 5, "homework": 1},
                         {"classNumber": 2, "subject": "present with do and does", "presence": true, "performance": 4, "homework": "-"},
-                        {"classNumber": 3, "subject": "present with do and does", "presence": false, "performance": 0, "homework": 0},
-                        {"classNumber": 4, "subject": "present continuous", "presence": true, "performance": 5, "homework": 84},
-                        {"classNumber": 5, "subject": "present continuous", "presence": true, "performance": 3, "homework": 65},
-                        {"classNumber": 6, "subject": "present continuouss", "presence": true, "performance": 3, "homework": 85},
-                        {"classNumber": 7, "subject": "present continuous negative", "presence": true, "performance": 4, "homework": 92},
-                        {"classNumber": 8, "subject": "simple past", "presence": true, "performance": 5, "homework": 100} 
+                        {"classNumber": 3, "subject": "present with do and does", "presence": false, "performance": 0, "homework": 1},
+                        {"classNumber": 4, "subject": "present continuous", "presence": true, "performance": 5, "homework": 2},
+                        {"classNumber": 5, "subject": "present continuous", "presence": true, "performance": 3, "homework": 1},
+                        {"classNumber": 6, "subject": "present continuous", "presence": true, "performance": 3, "homework": 1},
+                        {"classNumber": 7, "subject": "present continuous negative", "presence": true, "performance": 4, "homework": 1},
+                        {"classNumber": 8, "subject": "simple past", "presence": true, "performance": 3, "homework": 3},
+                        {"classNumber": 9, "subject": "simple past", "presence": true, "performance": 3, "homework": 1},
+                        {"classNumber": 10, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 11, "subject": "simple past", "presence": true, "performance": 5, "homework": 6},
+                        {"classNumber": 12, "subject": "simple past and present continuous", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 13, "subject": "simple past and present continuous", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 14, "subject": "present with do and does and simple past", "presence": true, "performance": 4, "homework": 2},
+                        {"classNumber": 15, "subject": "present with do and does and simple past", "presence": true, "performance": 5, "homework": 3},
+                        {"classNumber": 16, "subject": "simple past", "presence": true, "performance": 5, "homework": 1},
+                        {"classNumber": 17, "subject": "simple past", "presence": true, "performance": 4, "homework": 7},
+                        {"classNumber": 18, "subject": "simple past", "presence": true, "performance": 5, "homework": 1}
                    ],
 
         
@@ -24,10 +34,11 @@
         "lifetimeperformance": 84,
         "lifetimegrade": 72,
         "missedclasses": 5,        
-        "teachercomments": [ {"1": [{"date": "14/04/2019", "teacher": "Durval", "comment": "I dont like his attittude" }],
-                              "2": [{"date": "14/04/2019", "teacher": "Durval", "comment": "He is not very polite and I think we should seriously try calling his parents and asking them to come over here to chat about their sons behaviour" }],
-                              "3": [{"date": "07/05/2020", "teacher": "Rennan", "comment": "I dont like his attittude at all, he is driving me crazy" }]
-                              }],
+        "teachercomments": [ {"commentNumber": 1, "date": "14/04/2019", "teacher": "Durval", "comment": "I dont like his attittude" },
+                             {"commentNumber": 2, "date": "14/04/2019", "teacher": "Durval", "comment": "He is not very polite and I think we should seriously try calling his parents and asking them to come over here to chat about their sons behaviour" },
+                             {"commentNumber": 3, "date": "07/05/2020", "teacher": "Rennan", "comment": "I dont like his attittude at all, he is driving me crazy" },
+                             {"commentNumber": 4, "date": "07/05/2020", "teacher": "Rennan", "comment": "You guys better keep an eye on this student. He doesnt behave, he steals things, he curses a lot, he disrespects the teachers family, he is just the worst thing imaginable in the world. Peace." }
+                           ],
         "lifetimenumberofclasses": 65
     }
   ]
