@@ -91,7 +91,7 @@
             "John": null
           }
         ]
-      },
+      }
     ]
   },
   {
@@ -180,7 +180,7 @@
         "performances": [
           {"Martha": 5, "Philip": 4}
         ]
-      },
+      }
     ]
   },
   {
@@ -259,7 +259,7 @@
         "performances": [
           {"Beto": 3, "Vera": 4, "Susie": 4}
         ]
-      },
+      }
     ]
   },
   {
@@ -338,7 +338,7 @@
         "performances": [
           {"Karla": 3, "Carlos": 4, "Josh": 4}
         ]
-      },
+      }
     ]
   }
 ];
