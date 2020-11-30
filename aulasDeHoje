@@ -6,7 +6,13 @@
       "exercise": "unit 9 ex 7",
       "grammar": "present continuous",
       "students": [ "Angela", "Dwight", "Michael", "Toby" ],
-      "detailsSent": true
+      "detailsSent": true,
+      "details": [
+        {"student": "Angela", "performance": 4, "presence": true}, 
+        {"student": "Dwight", "performance": 0, "presence": false},
+        {"student": "Michael", "performance": 3, "presence": true},
+        {"student": "Toby", "performance": 1, "presence": true}
+      ]
     },
     {
       "time": "10:30",
@@ -14,7 +20,12 @@
       "exercise": "unit 12 ex 3",
       "grammar": "future with continuous",
       "students": [ "Goku", "Gohan", "Bulma" ],
-      "detailsSent": false
+      "detailsSent": false,
+      "details": [
+        {"student": "Goku", "performance": null, "presence": null},
+        {"student": "Gohan", "performance": null, "presence": null},
+        {"student": "Bulma", "performance": null, "presence": null}
+      ]
     },
     {
       "time": "16:30",
@@ -22,7 +33,13 @@
       "exercise": "unit 12 ex 10",
       "grammar": "future with will",
       "students": [ "Aang", "Katara", "Zuko", "Sokka" ],
-      "detailsSent": false
+      "detailsSent": false,
+      "details": [
+        {"student": "Aang", "performance": null, "presence": null},
+        {"student": "Katara", "performance": null, "presence": null},
+        {"student": "Zuko", "performance": null, "presence": null},
+        {"student": "Sokka", "performance": null, "presence": null}
+      ]
     },
     {
       "time": "18:00",
@@ -30,7 +47,12 @@
       "exercise": "unit 10 ex 3",
       "grammar": "future with be going to",
       "students": [ "Cat", "Dog", "Moose" ],
-      "detailsSent": false
+      "detailsSent": false,
+      "details": [
+        {"student": "Cat", "performance": null, "presence": null},
+        {"student": "Dog", "performance": null, "presence": null},
+        {"student": "Moose", "performance": null, "presence": null}
+      ]
     }
   ]
 }
