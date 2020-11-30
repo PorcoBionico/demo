@@ -1,0 +1,10 @@
+{
+"studentsDetails": [
+        {"student": "Angela", "performance": 4, "presence": true},
+        {"student": "Dwight", "performance": 0, "presence": false},
+        {"student": "Michael", "performance": 3, "presence": true},
+        {"student": "Toby", "performance": 1, "presence": true}
+      ],
+"classDetails": [{"type": "regular", "unit": 5, "exercise": 10}]
+      
+}
