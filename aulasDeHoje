@@ -8,14 +8,8 @@
       "lastExercise": "unit 9 ex 7",
       "grammar": "present continuous",
       "students": [ "Angela", "Dwight", "Michael", "Toby" ],
-      "detailsSent": true,
-      "studentsDetails": [
-        {"student": "Angela", "performance": 4, "presence": true},
-        {"student": "Dwight", "performance": 0, "presence": false},
-        {"student": "Michael", "performance": 3, "presence": true},
-        {"student": "Toby", "performance": 1, "presence": true}
-      ],
-      "classDetails": [{"type": "regular", "unit": 5, "exercise": 10}]
+      "detailsSent": true
+      
     },
     {
       "time": "10:30",
@@ -25,13 +19,7 @@
       "lastExercise": "unit 12 ex 3",
       "grammar": "future with continuous",
       "students": [ "Goku", "Gohan", "Bulma" ],
-      "detailsSent": true,
-      "studentsDetails": [
-        {"student": "Goku", "performance": 5, "presence": true},
-        {"student": "Gohan", "performance": 4, "presence": true},
-        {"student": "Bulma", "performance": 5, "presence": true}
-      ],
-      "classDetails": [{"type": "written", "unit": null, "exercise": null}]
+      "detailsSent": true
     },
     {
       "time": "16:30",
@@ -41,14 +29,7 @@
       "lastExercise": "unit 12 ex 10",
       "grammar": "future with will",
       "students": [ "Aang", "Katara", "Zuko", "Sokka" ],
-      "detailsSent": false,
-      "studentsDetails": [
-        {"student": "Aang", "performance": null, "presence": null},
-        {"student": "Katara", "performance": null, "presence": null},
-        {"student": "Zuko", "performance": null, "presence": null},
-        {"student": "Sokka", "performance": null, "presence": null}
-      ],
-      "classDetails": [{"type": null, "unit": null, "exercise": null}]
+      "detailsSent": false
     },
     {
       "time": "18:00",
@@ -58,13 +39,7 @@
       "lastExercise": "unit 10 ex 3",
       "grammar": "future with be going to",
       "students": [ "Cat", "Dog", "Moose" ],
-      "detailsSent": false,
-      "studentsDetails": [
-        {"student": "Cat", "performance": null, "presence": null},
-        {"student": "Dog", "performance": null, "presence": null},
-        {"student": "Moose", "performance": null, "presence": null}
-      ],
-      "classDetails": [{"type": null, "unit": null, "exercise": null}]
+      "detailsSent": false
     }
   ]
 }
