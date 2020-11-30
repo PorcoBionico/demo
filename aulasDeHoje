@@ -3,56 +3,68 @@
     {
       "time": "9:30",
       "book": "Intro A",
-      "exercise": "unit 9 ex 7",
+      "day": "12/05/2020",
+      "number": 9,
+      "lastExercise": "unit 9 ex 7",
       "grammar": "present continuous",
       "students": [ "Angela", "Dwight", "Michael", "Toby" ],
       "detailsSent": true,
-      "details": [
-        {"student": "Angela", "performance": 4, "presence": true}, 
+      "studentsDetails": [
+        {"student": "Angela", "performance": 4, "presence": true},
         {"student": "Dwight", "performance": 0, "presence": false},
         {"student": "Michael", "performance": 3, "presence": true},
         {"student": "Toby", "performance": 1, "presence": true}
-      ]
+      ],
+      "classDetails": [{"type": "regular", "unit": 5, "exercise": 10}]
     },
     {
       "time": "10:30",
       "book": "Intro B",
-      "exercise": "unit 12 ex 3",
+      "day": "12/05/2020",
+      "number": 7,
+      "lastExercise": "unit 12 ex 3",
       "grammar": "future with continuous",
       "students": [ "Goku", "Gohan", "Bulma" ],
-      "detailsSent": false,
-      "details": [
-        {"student": "Goku", "performance": null, "presence": null},
-        {"student": "Gohan", "performance": null, "presence": null},
-        {"student": "Bulma", "performance": null, "presence": null}
-      ]
+      "detailsSent": true,
+      "studentsDetails": [
+        {"student": "Goku", "performance": 5, "presence": true},
+        {"student": "Gohan", "performance": 4, "presence": true},
+        {"student": "Bulma", "performance": 5, "presence": true}
+      ],
+      "classDetails": [{"type": "written", "unit": null, "exercise": null}]
     },
     {
       "time": "16:30",
       "book": "2 A",
-      "exercise": "unit 12 ex 10",
+      "day": "12/05/2020",
+      "number": 9,
+      "lastExercise": "unit 12 ex 10",
       "grammar": "future with will",
       "students": [ "Aang", "Katara", "Zuko", "Sokka" ],
       "detailsSent": false,
-      "details": [
+      "studentsDetails": [
         {"student": "Aang", "performance": null, "presence": null},
         {"student": "Katara", "performance": null, "presence": null},
         {"student": "Zuko", "performance": null, "presence": null},
         {"student": "Sokka", "performance": null, "presence": null}
-      ]
+      ],
+      "classDetails": [{"type": null, "unit": null, "exercise": null}]
     },
     {
       "time": "18:00",
       "book": "3 B",
-      "exercise": "unit 10 ex 3",
+      "day": "12/05/2020",
+      "number": 9,
+      "lastExercise": "unit 10 ex 3",
       "grammar": "future with be going to",
       "students": [ "Cat", "Dog", "Moose" ],
       "detailsSent": false,
-      "details": [
+      "studentsDetails": [
         {"student": "Cat", "performance": null, "presence": null},
         {"student": "Dog", "performance": null, "presence": null},
         {"student": "Moose", "performance": null, "presence": null}
-      ]
+      ],
+      "classDetails": [{"type": null, "unit": null, "exercise": null}]
     }
   ]
 }
