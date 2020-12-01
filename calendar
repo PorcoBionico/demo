@@ -1,40 +1,44 @@
 [
   {
-    "day": "mon",
-    "first": "09:30 in A",
-    "second": "10:30 2A",
-    "third": "14:00 3A",
-    "fourth": "14:00 free"
+    "mon": [
+      {"book": "in A", "time": "09:30"},
+      {"book": "in B", "time": "10:30"},
+      {"book": "2 A", "time": "15:30"},
+      {"book": "in B", "time": "17:00"}
+    ]
   },
   {
-    "day": "tue",
-    "first": "10:1, in B",
-    "second": "14:00 free",
-    "third": "16:00 2B",
-    "fourth": "17:00 1A"
+    "tue" : [
+      {"book": "ADV", "time": "8:30"},
+      {"book": "free", "time": "10:30"},
+      {"book": "3 B", "time": "15:30"}
+    ]
   },
   {
-    "day": "wed",
-    "first": "09:30 in A",
-    "second": "10:30 2A",
-    "third": "14:00 3A",
-    "fourth": "14:00 free"
+    "wed": [
+      {"book": "in A", "time": "09:30"},
+      {"book": "in B", "time": "10:30"},
+      {"book": "2 A", "time": "15:30"},
+      {"book": "in B", "time": "17:00"}
+    ]
   },
   {
-    "day": "thu",
-    "first": "10:15 in B",
-    "second": "14:00 free",
-    "third": "16:00 2B",
-    "fourth": "17:00 1A"
+    "thu" : [
+      {"book": "ADV", "time": "8:30"},
+      {"book": "free", "time": "10:30"},
+      {"book": "3 B", "time": "15:30"}
+    ]
   },
   {
-    "day": "fri",
-    "first": "8:15 adv"
+    "fri": [
+      {"book": "free", "time": "14:00"},
+      {"book": "in B", "time": "17:00"}
+    ]
   },
   {
-    "day": "sat",
-    "first": "08:30 in A",
-    "second": "11:30 in B",
-    "third": "15:00 free"
+    "sat" : [
+      {"book": "ADV", "time": "8:30"},
+      {"book": "3 B", "time": "10:30"}
+    ]
   }
 ]
