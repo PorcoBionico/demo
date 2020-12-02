@@ -44,14 +44,14 @@
         
         "scores": [{ "written test 1": 95, "written test 2": null,  "oral test 1": 85, "oral test 2": null }],
 
-        "currentaverageperformance": 4,
+        "currentaverageperformance": 94,
         "currentaveragehomework": 92,
+        "presence": 98,
         "pronunciartion" : 78,
         "speed" : 81,
         "useofenglish": 92,
         "lifetimeperformance": 84,
-        "lifetimegrade": 72,
-        "missedclasses": 5,        
+        "lifetimegrade": 72,        
         "teachercomments": [ {"commentNumber": 1, "date": "14/04/2019", "teacher": "Durval", "comment": "I dont like his attittude" },
                              {"commentNumber": 2, "date": "14/04/2019", "teacher": "Durval", "comment": "He is not very polite and I think we should seriously try calling his parents and asking them to come over here to chat about their sons behaviour" },
                              {"commentNumber": 3, "date": "07/05/2020", "teacher": "Rennan", "comment": "I dont like his attittude at all, he is driving me crazy" },
