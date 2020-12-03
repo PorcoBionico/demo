@@ -3,14 +3,14 @@
   "time" : "9:30",
   "book" : "in A",
   "students" : [
-    {"name" : "Pedro Malta", "oral test 1" : 92, "written test 1" : 100, "oral test 2" : 5, "written test 2" : null},
-    {"name" : "Pedro Malta", "oral test 1" : 0, "written test 1" : 56, "oral test 2" : 34, "written test 2" : null},
-    {"name" : "Jordan Silvester", "oral test 1" : 92, "written test 1" : 64, "oral test 2" : 34, "written test 2" : null},
-    {"name" : "Marcos Malária", "oral test 1" : 23, "written test 1" : 57, "oral test 2" : 67, "written test 2" : null},
-    {"name" : "Rubiane Silve", "oral test 1" : 87, "written test 1" : 53, "oral test 2" : 85, "written test 2" : null},
-    {"name" : "Jaozinho Pedreiro", "oral test 1" : 95, "written test 1" : 43, "oral test 2" : 84, "written test 2" : null},
-    {"name" : "Carlos Carvalho", "oral test 1" : 92, "written test 1" : 42, "oral test 2" : 90, "written test 2" : null},
-    {"name" : "Viviane Araújo", "oral test 1" : 100, "written test 1" : 92, "oral test 2" : 12, "written test 2" : null}
+    {"name" : "Pedro Malta", "oral test 1" : 92, "written test 1" : 100, "oral test 2" : 5, "written test 2" : null, "pronunciation" : 65, "speed" : 45, "useofenglish" : 44},
+    {"name" : "Pedro Malta", "oral test 1" : 0, "written test 1" : 56, "oral test 2" : 34, "written test 2" : null, "pronunciation" : 12, "speed" : 48, "useofenglish" : 98},
+    {"name" : "Jordan Silvester", "oral test 1" : 92, "written test 1" : 64, "oral test 2" : 34, "written test 2" : null, "pronunciation" : 100, "speed" : 85, "useofenglish" : 84},
+    {"name" : "Marcos Malária", "oral test 1" : 23, "written test 1" : 57, "oral test 2" : 67, "written test 2" : null, "pronunciation" : 0, "speed" : 3, "useofenglish" : 2},
+    {"name" : "Rubiane Silve", "oral test 1" : 87, "written test 1" : 53, "oral test 2" : 85, "written test 2" : null, "pronunciation" : 65, "speed" : 76, "useofenglish" : 44},
+    {"name" : "Jaozinho Pedreiro", "oral test 1" : 95, "written test 1" : 43, "oral test 2" : 84, "written test 2" : null, "pronunciation" : 65, "speed" : 45, "useofenglish" : 44},
+    {"name" : "Carlos Carvalho", "oral test 1" : 92, "written test 1" : 42, "oral test 2" : 90, "written test 2" : null, "pronunciation" : 48, "speed" : 45, "useofenglish" : 12},
+    {"name" : "Viviane Araújo", "oral test 1" : 100, "written test 1" : 92, "oral test 2" : 12, "written test 2" : null, "pronunciation" : 74, "speed" : 13, "useofenglish" : 44}
   ],
   "classes" : [
     {"number" : 1, "date" : "12/03/2020", "type" : "regular", "unit" : 1, "exercise" : 4, "subject" : "simple past with verb to be"},
