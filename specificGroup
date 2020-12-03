@@ -3,8 +3,8 @@
   "time" : "9:30",
   "book" : "in A",
   "students" : [
-    {"name" : "Pedro Malta", "oral test 1" : 92, "written test 1" : 100, "oral test 2" : 05, "written test 2" : null},
-    {"name" : "Pedro Malta", "oral test 1" : 00, "written test 1" : 56, "oral test 2" : 34, "written test 2" : null},
+    {"name" : "Pedro Malta", "oral test 1" : 92, "written test 1" : 100, "oral test 2" : 5, "written test 2" : null},
+    {"name" : "Pedro Malta", "oral test 1" : 0, "written test 1" : 56, "oral test 2" : 34, "written test 2" : null},
     {"name" : "Jordan Silvester", "oral test 1" : 92, "written test 1" : 64, "oral test 2" : 34, "written test 2" : null},
     {"name" : "Marcos Malária", "oral test 1" : 23, "written test 1" : 57, "oral test 2" : 67, "written test 2" : null},
     {"name" : "Rubiane Silve", "oral test 1" : 87, "written test 1" : 53, "oral test 2" : 85, "written test 2" : null},
