@@ -44,7 +44,7 @@
       "letter": "a",
       "question": "Complete with DO or DOES",
       "sentences": [
-        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
+        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday. __"
       ],
       "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
       "correct" : "likes, plays, doesn't, practices"
