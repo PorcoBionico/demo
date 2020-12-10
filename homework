@@ -35,7 +35,7 @@
         "we __ not like to go bowling"
       ],
       "options": ["do", "does"],
-      "correct" : "does, do, do, does, do, do"
+      "correct" : ["does", "do", "do", "does", "do", "do"]
     },
     {
       "kind": "text",
