@@ -21,6 +21,18 @@
       "correct" : "b) does, do, do"
     },
     {
+      "kind": "talks",
+      "unit": 6,
+      "exercise": 3,
+      "letter": "b",
+      "question": "Complete the conversation according to the audio",
+      "sentences": [
+        "I'd like ___ cookies please", "That's alright. _____ else?", "Yes, please. Can I ____ a cup of coffee?", "Sure! That'll be _____", "Ok, thanks! Do you have change for ____?", "I'm afraid I don't. But we take ______ card too!"
+      ],
+      "options": ["12;20", "Anything;Everything", "have;drink", "U$ 14,00;U$ 40,00", "50;100", "debit;credit"],
+      "correct" : ["20", "Anything", "have", "U$ 14,00", "50", "debit"]
+    },
+    {
       "kind": "sameOptions",
       "unit": 5,
       "exercise": 12,
@@ -48,18 +60,7 @@
       ],
       "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
       "correct" : ["likes", "plays", "doesn't", "practices"]
-    },
-    {
-      "kind": "talks",
-      "unit": 6,
-      "exercise": 3,
-      "letter": "b",
-      "question": "Complete the conversation according to the audio",
-      "sentences": [
-        "I'd like ___ cookies please", "That's alright. _____ else?", "Yes, please. Can I ____ a cup of coffee?", "Sure! That'll be _____", "Ok, thanks! Do you have change for ____?", "I'm afraid I don't. But we take ______ card too!"
-      ],
-      "options": ["12;20", "Anything;Everything", "have;drink", "U$ 14,00;U$ 40,00", "50;100", "debit;credit"],
-      "correct" : ["20", "Anything", "have", "U$ 14,00", "50", "debit"]
     }
+
   ]
 }
