@@ -27,10 +27,17 @@
       "letter": "b",
       "question": "Complete the conversation according to the audio",
       "sentences": [
-        "I'd like ___ cookies please", "That's alright. _____ else?", "Yes, please. Can I ____ a cup of coffee?", "Sure! That'll be _____", "Ok, thanks! Do you have change for ____?", "I'm afraid I don't. But we take ______ card too!"
+      {"side": "left", "text": "I'd like ___ cookies please", "options": ["12", "20"], "correct": "20"}, 
+      {"side": "right", "text": "That's alright. _____ else?", "options": ["Anything", "Everything"], "correct": "Anything"}, 
+      {"side": "left", "text": "Yes, please. Can I ____ a cup of coffee?", "options": ["have", "drink"], "correct": "have"}, 
+      {"side": "right", "text": "Sure! That'll be _____", "options": ["U$ 14,00", "U$ 40,00"], "correct": "U$ 14,00"},
+      {"side": "left", "text": "Ok, thanks! Do you have change for ____?", "options": ["50", "100"], "correct": "50"}, 
+      {"side": "right", "text": "I'm afraid I don't. But we take ______ card too!", "options": ["debit", "credit"], "correct": "debit"}
+      
+         
       ],
-      "options": ["12;20", "Anything;Everything", "have;drink", "U$ 14,00;U$ 40,00", "50;100", "debit;credit"],
-      "correct" : ["20", "Anything", "have", "U$ 14,00", "50", "debit"]
+      "options": null,
+      "correct" : null
     },
     {
       "kind": "sameOptions",
