@@ -28,14 +28,14 @@
       "question": "Complete the conversation according to the audio",
       "sentences": [
           {"left" : [
-              {"text": "I'd like ___ cookies please", "options": ["12", "20"], "correct": "20"}, 
-              {"text": "Yes, please. Can I ____ a cup of coffee?", "options": ["have", "drink"], "correct": "have"}, 
-              {"text": "Ok, thanks! Do you have change for ____?", "options": ["50", "100"], "correct": "50"}
+              {"text": "I'd like __ cookies please", "options": ["12", "20"], "correct": "20"}, 
+              {"text": "Yes, please. Can I __ a cup of coffee?", "options": ["have", "drink"], "correct": "have"}, 
+              {"text": "Ok, thanks! Do you have change for __ ?", "options": ["50", "100"], "correct": "50"}
                 ], 
            "right": [
-              {"text": "That's alright. _____ else?", "options": ["Anything", "Everything"], "correct": "Anything"}, 
-              {"text": "Sure! That'll be _____", "options": ["U$ 14,00", "U$ 40,00"], "correct": "U$ 14,00"},
-              {"text": "I'm afraid I don't. But we take ______ card too!", "options": ["debit", "credit"], "correct": "debit"}
+              {"text": "That's alright. __ else?", "options": ["Anything", "Everything"], "correct": "Anything"}, 
+              {"text": "Sure! That'll be __", "options": ["U$ 14,00", "U$ 40,00"], "correct": "U$ 14,00"},
+              {"text": "I'm afraid I don't. But we take __ card too!", "options": ["debit", "credit"], "correct": "debit"}
               ]
            }
       ],
