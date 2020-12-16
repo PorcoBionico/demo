@@ -21,6 +21,21 @@
       "options": ["a) do, do, does", "b) does, do, do", "c) do, does, does", "d) does, does, do"],
       "correct" : "b) does, do, do"
     },
+        {
+      "kind": "tapOrder",
+      "unit": 5,
+      "exercise": 12,
+      "letter": "d",
+      "question": "Choose the words in the correct order",
+      "sentences": [
+      {"options": ["red", "white", "green", "hook", "arrow", "anchor"], "correct": ["white", "anchor"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/anchor.png"},
+      {"options": ["ride", "drive", "fly", "a bike", "a boat", "an airplane"], "correct": ["ride", "a bike"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bike.png"},
+      {"options": ["explode", "go", "drink", "the ball", "the bomb", "the bowling"], "correct": ["explode", "the bomb"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bomb.png"},
+      {"options": ["ship", "a ship", "a big", "big"], "correct": ["a big", "ship"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/cruise.png"}
+      ],
+      "options": null,
+      "correct" : null
+    },
     {
       "kind": "talks",
       "unit": 6,
