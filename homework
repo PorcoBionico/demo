@@ -28,12 +28,12 @@
       "letter": "c",
       "question": "Memorize the words!",
       "sentences": [
-      {"word": "fire", "imgage": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png"},
-      {"word": "flower", "imgage": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png"},
-      {"word": "microphone", "imgage": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png"},
-      {"word": "radio", "imgage": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png"},
-      {"word": "UFO", "imgage": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png"},
-      {"word": "door", "imgage": "https://colegiolostilos.com/images/icons/full-color/128px/door.png"}
+      {"word": "fire", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png"},
+      {"word": "flower", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png"},
+      {"word": "microphone", "image": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png"},
+      {"word": "radio", "image": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png"},
+      {"word": "UFO", "image": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png"},
+      {"word": "door", "image": "https://colegiolostilos.com/images/icons/full-color/128px/door.png"}
       ],
       "options": null,
       "correct" : null
