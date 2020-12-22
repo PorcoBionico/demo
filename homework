@@ -13,7 +13,7 @@
       "exercise": 11,
       "letter": "a",
       "question": "Complete with DO or DOES",
-      "audio": "http://tuningmania.com.br/autosom/mp3/0-intro%20to%20test%20section.MP3",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
       "sentences": [
         "She __ not like to study",
         "__ you like to study?",
@@ -99,6 +99,7 @@
       "exercise": 13,
       "letter": "a",
       "question": "Complete the text",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
       "sentences": [
         "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
       ],
