@@ -10,7 +10,7 @@
     {
       "kind": "normal",
       "unit": 5,
-      "exercise": 11,
+      "exercise": 4,
       "letter": "a",
       "question": "Complete with DO or DOES",
       "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
@@ -24,8 +24,8 @@
     },
     {
       "kind": "memory",
-      "unit": 10,
-      "exercise": 15,
+      "unit": 5,
+      "exercise": 5,
       "letter": "c",
       "question": "Memorize the words!",
       "sentences": [
@@ -42,7 +42,7 @@
     {
       "kind": "tapOrder",
       "unit": 5,
-      "exercise": 12,
+      "exercise": 6,
       "letter": "d",
       "question": "Choose the words in the correct order",
       "sentences": [
@@ -78,7 +78,7 @@
     },
     {
       "kind": "sameOptions",
-      "unit": 5,
+      "unit": 6,
       "exercise": 12,
       "letter": "a",
       "question": "Complete with DO or DOES",
@@ -95,8 +95,8 @@
     },
     {
       "kind": "text",
-      "unit": 5,
-      "exercise": 13,
+      "unit": 7,
+      "exercise": 1,
       "letter": "a",
       "question": "Complete the text",
       "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
