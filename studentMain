@@ -11,32 +11,32 @@
   {
     "installment": 1,
     "situation": "paid",
-    "due": "10/1/2020",
+    "due": "10/1/2020"
   },
     {
     "installment": 2,
     "situation": "paid",
-    "due": "10/2/2020",
+    "due": "10/2/2020"
   },
     {
     "installment": 3,
     "situation": "paid",
-    "due": "10/3/2020",
+    "due": "10/3/2020"
   },
     {
     "installment": 4,
     "situation": "late",
-    "due": "10/4/2020",
+    "due": "10/4/2020"
   },
     {
     "installment": 5,
     "situation": "pending",
-    "due": "10/5/2020",
+    "due": "10/5/2020"
   },
     {
     "installment": 6,
     "situation": "pending",
-    "due": "10/6/2020",
+    "due": "10/6/2020"
   }
   ],
   
