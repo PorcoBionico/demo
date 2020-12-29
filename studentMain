@@ -41,16 +41,23 @@
   ],
   
   "classes": [
-  {"classNumber": 1, "date": "02/06/2020", "subject": "present with do and does", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
-  {"classNumber": 2, "date": "04/06/2020", "subject": "present with do and does", "presence": true, "performance": 4, "homework": 94, "homeworkStatus": "done on time"},
-  {"classNumber": 3, "date": "09/06/2020", "subject": "present with do and does", "presence": false, "performance": 0, "homework": 88, "homeworkStatus": "done late"},
-  {"classNumber": 4, "date": "11/06/2020", "subject": "present continuous", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
-  {"classNumber": 5, "date": "16/06/2020", "subject": "present continuous", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done on time"},
-  {"classNumber": 6, "date": "18/06/2020", "subject": "present continuous", "presence": true, "performance": 3, "homework": null, "homeworkStatus": "pending"},
-  {"classNumber": 7, "date": "23/06/2020", "subject": "present continuous negative", "presence": true, "performance": 4, "homework": 100, "homeworkStatus": "done on time"},
-  {"classNumber": 8, "date": "25/06/2020", "subject": "simple past", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done on time"},
-  {"classNumber": 9, "date": "30/06/2020", "subject": "simple past", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done late"},
-  {"classNumber": 10, "date": "02/07/2020", "subject": "simple past", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
-  {"classNumber": 11, "date": "04/07/2020", "subject": "simple past", "presence": true, "performance": 5, "homework": 45, "homeworkStatus": "done on time"}
+  {"classNumber": 1, "date": "02/06/2020", "lastExercise": "unit 1 ex. 5", "subject": "present with do and does", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 2, "date": "04/06/2020", "lastExercise": "unit 1 ex. 8", "subject": "present with do and does", "presence": true, "performance": 4, "homework": 94, "homeworkStatus": "done on time"},
+  {"classNumber": 3, "date": "09/06/2020", "lastExercise": "unit 1 ex. 12", "subject": "present with do and does", "presence": false, "performance": 0, "homework": 88, "homeworkStatus": "done late"},
+  {"classNumber": 4, "date": "11/06/2020", "lastExercise": "unit 2 ex. 5", "subject": "present continuous", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 5, "date": "16/06/2020", "lastExercise": "unit 2 ex. 7", "subject": "present continuous", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 6, "date": "18/06/2020", "lastExercise": "unit 2 ex. 10", "subject": "present continuous", "presence": true, "performance": 3, "homework": 0, "homeworkStatus": "pending"},
+  {"classNumber": 7, "date": "23/06/2020", "lastExercise": "unit 3 ex. 2", "subject": "present continuous negative", "presence": true, "performance": 4, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 8, "date": "25/06/2020", "lastExercise": null, "subject": "video", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 9, "date": "30/06/2020", "lastExercise": "unit 3 ex. 13", "subject": "simple past", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done late"},
+  {"classNumber": 10, "date": "02/07/2020", "lastExercise": "unit 4 ex. 2", "subject": "simple past", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 11, "date": "04/07/2020", "lastExercise": "unit 4 ex. 5", "subject": "simple past", "presence": true, "performance": 5, "homework": 45, "homeworkStatus": "done on time"},
+  {"classNumber": 12, "date": "09/07/2020", "lastExercise": null, "subject": "oral test 1", "presence": true, "performance": null, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 13, "date": "11/07/2020", "lastExercise": "unit 4 ex. 12", "subject": "simple past and present continuous", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 14, "date": "16/07/2020", "lastExercise": "unit 5 ex. 4", "subject": "present with do and does and simple past", "presence": true, "performance": 4, "homework": 100, "homeworkStatus": "done on time"},
+  {"classNumber": 15, "date": "18/07/2020", "lastExercise": "unit 5 ex. 5", "subject": "present with do and does and simple past", "presence": true, "performance": 5, "homework": 68, "homeworkStatus": "done late"},
+  {"classNumber": 16, "date": "23/07/2020", "lastExercise": "unit 5 ex. 8", "subject": "simple past", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done late"},
+  {"classNumber": 17, "date": "25/07/2020", "lastExercise": "unit 6 ex. 1", "subject": "simple past", "presence": true, "performance": 4, "homework": 0, "homeworkStatus": "pending"},
+  {"classNumber": 18, "date": "30/07/2020", "lastExercise": "unit 6 ex. 5", "subject": "simple past", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"}
   ]
 }
