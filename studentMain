@@ -49,7 +49,7 @@
   {"classNumber": 6, "date": "18/06/2020", "subject": "present continuous", "presence": true, "performance": 3, "homework": null, "homeworkStatus": "pending"},
   {"classNumber": 7, "date": "23/06/2020", "subject": "present continuous negative", "presence": true, "performance": 4, "homework": 100, "homeworkStatus": "done on time"},
   {"classNumber": 8, "date": "25/06/2020", "subject": "simple past", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done on time"},
-  {"classNumber": 9, "date": "30/06/2020", "subject": "simple past", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done lat"},
+  {"classNumber": 9, "date": "30/06/2020", "subject": "simple past", "presence": true, "performance": 3, "homework": 100, "homeworkStatus": "done late"},
   {"classNumber": 10, "date": "02/07/2020", "subject": "simple past", "presence": true, "performance": 5, "homework": 100, "homeworkStatus": "done on time"},
   {"classNumber": 11, "date": "04/07/2020", "subject": "simple past", "presence": true, "performance": 5, "homework": 45, "homeworkStatus": "done on time"}
   ]
