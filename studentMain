@@ -5,7 +5,7 @@
   "currentteacher": "Rennan",
 
   "grades":
-    {"oral test 1": 84, "written test 1": 46, "oral test 2": 95, "written test 2": 77, "class performance": 87, "presence": 97, "homeworks": 91, "pronunciation": 64, "speed": 84, "use of english": 85},
+    {"oral test 1": 84, "written test 1": 46, "oral test 2": 95, "written test 2": null, "class performance": 87, "presence": 97, "homeworks": 91, "pronunciation": 64, "speed": 84, "use of english": 85},
   
   "financial": [
   {
