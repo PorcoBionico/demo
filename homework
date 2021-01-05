@@ -22,6 +22,23 @@
       "options": ["a) do, do, does", "b) does, do, do", "c) do, does, does", "d) does, does, do"],
       "correct" : "b) does, do, do"
     },
+    {
+      "kind": "memory",
+      "unit": 5,
+      "exercise": 5,
+      "letter": "c",
+      "question": "Memorize the words!",
+      "sentences": [
+      {"word": "fire", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png"},
+      {"word": "flower", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png"},
+      {"word": "microphone", "image": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png"},
+      {"word": "radio", "image": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png"},
+      {"word": "UFO", "image": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png"},
+      {"word": "door", "image": "https://colegiolostilos.com/images/icons/full-color/128px/door.png"}
+      ],
+      "options": null,
+      "correct" : null
+    },
 
     {
       "kind": "tapOrder",
