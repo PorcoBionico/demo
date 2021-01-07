@@ -1,5 +1,6 @@
 {
 "students":
+[
 
 {
 "name": "Amanda",
@@ -208,4 +209,5 @@
 "teacher": "Eduardo Abilio",
 "situation": "ok"
 }
+]
 }
