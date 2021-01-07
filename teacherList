@@ -1,5 +1,7 @@
 
       {
+      "teachers: 
+      {
         "name": "Rennan",
         "surname": "Leal",
         "level": "all",
@@ -64,5 +66,6 @@
           "fri": ["16:00 - 3 A"],
           "sat": ["10:30 - In B"]
         }
+      }
       }
     
