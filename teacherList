@@ -1,6 +1,7 @@
 
       {
-      "teachers: 
+      "teachers": 
+      [
       {
         "name": "Rennan",
         "surname": "Leal",
@@ -67,5 +68,6 @@
           "sat": ["10:30 - In B"]
         }
       }
+      ]
       }
     
