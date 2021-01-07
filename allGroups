@@ -4,6 +4,7 @@
     "day": ["mon", "wed"],
     "time": "9:30",
     "book": "in A",
+    "teacher": "Rennan Leal",
     "Students": ["Bob", "Bruce", "Patty", "Rodney", "John"],
     "classes": [
       {
@@ -99,6 +100,7 @@
     "day": ["mon", "wed"],
     "time": "11:30",
     "book": "in B",
+    "teacher": "Rennan Leal",
     "Students": ["Martha", "Philip"],
     "classes": [
       {
@@ -188,6 +190,7 @@
     "day": ["tue", "thu"],
     "time": "8:30",
     "book": "2 A",
+    "teacher": "Bruno Alves",
     "Students": ["Beto", "Vera", "Susie"],
     "classes": [
       {
@@ -264,9 +267,90 @@
   },
   {
     "classID": 4,
+    "day": ["tue", "thu"],
+    "time": "8:30",
+    "book": "2 A",
+    "teacher": "Bruno Alves",
+    "Students": ["Beto", "Vera", "Susie"],
+    "classes": [
+      {
+        "number": 1,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 3,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 2,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 6,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 3,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 12,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 4,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 3,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 5,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 7,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 6,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 13,
+        "missed": ["Vera"],
+        "performances": [
+          {"Beto": 3, "Vera": 0, "Susie": 4}
+        ]
+      },
+      {
+        "number": 7,
+        "type": "video",
+        "unit": null,
+        "exercise": null,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      }
+    ]
+  },
+  {
+    "classID": 5,
     "day": ["sat"],
     "time": "8:30",
     "book": "ADV",
+    "teacher": "Bruno Alves",
     "Students": ["Karla", "Carlos", "Josh"],
     "classes": [
       {
@@ -337,6 +421,166 @@
         "missed": [],
         "performances": [
           {"Karla": 3, "Carlos": 4, "Josh": 4}
+        ]
+      }
+    ]
+  },
+  {
+    "classID": 6,
+    "day": ["mon", "wed"],
+    "time": "18:30",
+    "book": "In A",
+    "teacher": "Eduardo Abilio",
+    "Students": ["Beto", "Vera", "Susie"],
+    "classes": [
+      {
+        "number": 1,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 3,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 2,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 6,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 3,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 12,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 4,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 3,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 5,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 7,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 6,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 13,
+        "missed": ["Vera"],
+        "performances": [
+          {"Beto": 3, "Vera": 0, "Susie": 4}
+        ]
+      },
+      {
+        "number": 7,
+        "type": "video",
+        "unit": null,
+        "exercise": null,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      }
+    ]
+  },
+  {
+    "classID": 7,
+    "day": ["mon", "wed"],
+    "time": "20:30",
+    "book": "ADV",
+    "teacher": "Eduardo Abilio",
+    "Students": ["Beto", "Vera", "Susie"],
+    "classes": [
+      {
+        "number": 1,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 3,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 2,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 6,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 3,
+        "type": "regular",
+        "unit": 1,
+        "exercise": 12,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 4,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 3,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 5,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 7,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
+        ]
+      },
+      {
+        "number": 6,
+        "type": "regular",
+        "unit": 2,
+        "exercise": 13,
+        "missed": ["Vera"],
+        "performances": [
+          {"Beto": 3, "Vera": 0, "Susie": 4}
+        ]
+      },
+      {
+        "number": 7,
+        "type": "video",
+        "unit": null,
+        "exercise": null,
+        "missed": [],
+        "performances": [
+          {"Beto": 3, "Vera": 4, "Susie": 4}
         ]
       }
     ]
