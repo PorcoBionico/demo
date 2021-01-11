@@ -6,7 +6,8 @@
     "surname": "Leal",
     "content": "Teacher has not posted class info",
     "classId": "mon-wed, 19:00hrs, In A",
-    "issueDate": "monday, 17/02/2021"
+    "issueDate": "monday, 17/02/2021",
+    "daysAgo": 7
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "surname": "Alves",
     "content": "Teacher has not completed students monthly evaluation",
     "classId": "mon-wed, 13:00hrs, In B",
-    "issueDate": "monday, 17/02/2021"
+    "issueDate": "monday, 17/02/2021",
+    "daysAgo": 7
   },
     {
     "id": 3,
@@ -24,7 +26,8 @@
     "surname": "Alves",
     "content": "Teacher has not completed students monthly evaluation",
     "classId": "tue-thu, 14:00hrs, 2 B",
-    "issueDate": "tue, 18/02/2021"
+    "issueDate": "tue, 18/02/2021",
+    "daysAgo": 6
   },
     {
     "id": 2,
@@ -33,7 +36,8 @@
     "surname": "Brandão",
     "content": "Student has not paid the installment",
     "classId": "mon-wed, 08:30hrs, In B",
-    "issueDate": "wednesday, 19/02/2021"
+    "issueDate": "wednesday, 19/02/2021",
+    "daysAgo": 5
   },
     {
     "id": 2,
@@ -42,7 +46,8 @@
     "surname": "Abilio",
     "content": "Teacher has not posted class info",
     "classId": "sat, 09:30hrs, In B",
-    "issueDate": "sat, 23/02/2021"
+    "issueDate": "sat, 23/02/2021",
+    "daysAgo": 1
   },
   {
     "id": 1,
@@ -51,7 +56,8 @@
     "surname": "Rego",
     "content": "Student has not paid the installment",
     "classId": "mon-wed, 19:00hrs, In A",
-    "issueDate": "wednesday, 10/02/2021"
+    "issueDate": "wednesday, 10/02/2021",
+    "daysAgo": 14
   }
 ]
 }
