@@ -5,8 +5,8 @@
     "name": "Rennan",
     "surname": "Leal",
     "content": "Teacher has not posted class info",
-    "class": "mon-wed, 19:00hrs, In A",
-    "date": "monday, 17/02/2021"
+    "classId": "mon-wed, 19:00hrs, In A",
+    "issueDate": "monday, 17/02/2021"
   },
   {
     "id": 2,
@@ -14,8 +14,8 @@
     "name": "Bruno",
     "surname": "Alves",
     "content": "Teacher has not completed students monthly evaluation",
-    "class": "mon-wed, 13:00hrs, In B",
-    "date": "monday, 17/02/2021"
+    "classId": "mon-wed, 13:00hrs, In B",
+    "issueDate": "monday, 17/02/2021"
   },
   {
     "id": 1,
@@ -23,8 +23,8 @@
     "name": "Roberto",
     "surname": "Rego",
     "content": "Student has not paid the installment",
-    "class": "mon-wed, 19:00hrs, In A",
-    "date": "wednesday, 10/02/2021"
+    "classId": "mon-wed, 19:00hrs, In A",
+    "issueDate": "wednesday, 10/02/2021"
   }
 ]
 }
