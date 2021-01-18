@@ -5,6 +5,9 @@
       {
         "name": "Rennan",
         "surname": "Leal",
+        "phone": "41992760415",
+        "email": "rennan_lm@hotmail.com",
+        "birthday": "17/06/1992",
         "level": "all",
         "rating": "4.32",
         "availability": {
@@ -27,6 +30,9 @@
       {
         "name": "Bruno",
         "surname": "Alves",
+        "phone": "41988998998",
+        "email": "teacherbrunom@hotmail.com",
+        "birthday": "10/05/1995",
         "level": "all",
         "rating": "2.92",
         "availability": {
@@ -49,6 +55,9 @@
       {
         "name": "Eduardo",
         "surname": "Abilio",
+        "phone": "41999999999",
+        "email": "teachereduardo@hotmail.com",
+        "birthday": "18/06/1992",
         "level": "intermediate",
         "rating": "0.95",
         "availability": {
