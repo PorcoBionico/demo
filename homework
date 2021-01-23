@@ -22,6 +22,21 @@
       "options": ["a) do, do, does", "b) does, do, do", "c) do, does, does", "d) does, does, do"],
       "correct" : "b) does, do, do"
     },
+        {
+      "kind": "normal",
+      "unit": 3,
+      "exercise": 4,
+      "letter": "d",
+      "question": "Complete with IS or ARE",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
+      "sentences": [
+        "__ she your mother?",
+        "__ Bob polite?",
+        "__ you friendly?"
+      ],
+      "options": ["a) is, is, are", "b) are, are, is", "c) are, is, is", "d) is, are, is"],
+      "correct" : "a) is, is, are"
+    },
     {
       "kind": "memory",
       "unit": 5,
