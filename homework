@@ -8,6 +8,7 @@
   "questions" :
   [
     {
+    "id": 1,
       "kind": "normal",
       "unit": 5,
       "exercise": 4,
@@ -23,6 +24,7 @@
       "correct" : "b) does, do, do"
     },
         {
+          "id": 2,
       "kind": "normal",
       "unit": 3,
       "exercise": 4,
@@ -38,6 +40,7 @@
       "correct" : "a) is, is, are"
     },
     {
+      "id": 3,
       "kind": "memory",
       "unit": 5,
       "exercise": 5,
@@ -56,6 +59,7 @@
     },
 
     {
+      "id": 4,
       "kind": "tapOrder",
       "unit": 5,
       "exercise": 6,
@@ -71,6 +75,7 @@
       "correct" : null
     },
     {
+      "id": 5,
       "kind": "talks",
       "unit": 6,
       "exercise": 3,
@@ -93,6 +98,7 @@
       "correct" : null
     },
     {
+      "id": 6,
       "kind": "sameOptions",
       "unit": 6,
       "exercise": 12,
@@ -110,6 +116,7 @@
       "correct" : ["does", "do", "do", "does", "do", "do"]
     },
     {
+      "id": 7,
       "kind": "text",
       "unit": 7,
       "exercise": 1,
