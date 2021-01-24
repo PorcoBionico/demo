@@ -39,6 +39,19 @@
       "options": ["a) is, is, are", "b) are, are, is", "c) are, is, is", "d) is, are, is"],
       "correct" : "a) is, is, are"
     },
+        {
+      "kind": "text",
+      "unit": 7,
+      "exercise": 1,
+      "letter": "a",
+      "question": "Complete the text",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
+      "sentences": [
+        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
+      ],
+      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
+      "correct" : ["likes", "plays", "doesn't", "practices"]
+    },
     {
       "id": 3,
       "kind": "memory",
@@ -73,6 +86,19 @@
       ],
       "options": null,
       "correct" : null
+    },
+        {
+      "kind": "text",
+      "unit": 12,
+      "exercise": 12,
+      "letter": "b",
+      "question": "Complete the text again",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
+      "sentences": [
+        "Lilian __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
+      ],
+      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
+      "correct" : ["likes", "plays", "doesn't", "practices"]
     }
  
 
