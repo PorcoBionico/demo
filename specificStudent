@@ -18,14 +18,14 @@
       "financial" : {
         "enrollmentDate" : "14/01/2021",
         "dueDate" : 10,
-        "installments" : {
-          "first" : {"due" : "10/02/2021", "situation" : "paid"},
-          "second" : {"due" : "10/03/2021", "situation" : "paid"},
-          "third" : {"due" : "10/04/2021", "situation" : "paid"},
-          "fourth" : {"due" : "10/05/2021", "situation" : "late"},
-          "fifth" : {"due" : "10/06/2021", "situation" : "pending"},
-          "sixth" : {"due" : "10/07/2021", "situation" : "pending"}
-        },
+        "installments" : [
+          {"due" : "10/02/2021", "situation" : "paid"},
+          {"due" : "10/03/2021", "situation" : "paid"},
+          {"due" : "10/04/2021", "situation" : "paid"},
+          {"due" : "10/05/2021", "situation" : "late"},
+          {"due" : "10/06/2021", "situation" : "pending"},
+          {"due" : "10/07/2021", "situation" : "pending"}
+        ],
         "discount" : 50,
         "discountReason" : "promoção Friendship"
       },
@@ -460,14 +460,14 @@
       "financial" : {
         "enrollmentDate" : "14/06/2020",
         "dueDate" : 10,
-        "installments" : {
-          "first" : {"due" : "10/02/2021", "situation" : "paid"},
-          "second" : {"due" : "10/03/2021", "situation" : "paid"},
-          "third" : {"due" : "10/04/2021", "situation" : "paid"},
-          "fourth" : {"due" : "10/05/2021", "situation" : "paid"},
-          "fifth" : {"due" : "10/06/2021", "situation" : "paid"},
-          "sixth" : {"due" : "10/07/2021", "situation" : "paid"}
-        },
+        "installments" : [
+           {"due" : "10/02/2021", "situation" : "paid"},
+           {"due" : "10/03/2021", "situation" : "paid"},
+           {"due" : "10/04/2021", "situation" : "paid"},
+           {"due" : "10/05/2021", "situation" : "paid"},
+           {"due" : "10/06/2021", "situation" : "paid"},
+           {"due" : "10/07/2021", "situation" : "paid"}
+        ],
         "discount" : 0,
         "discountReason" : null
       },
@@ -902,14 +902,14 @@
       "financial" : {
         "enrollmentDate" : "4/01/2020",
         "dueDate" : 10,
-        "installments" : {
-          "first" : {"due" : "10/02/2021", "situation" : "paid"},
-          "second" : {"due" : "10/03/2021", "situation" : "paid"},
-          "third" : {"due" : "10/04/2021", "situation" : "paid"},
-          "fourth" : {"due" : "10/05/2021", "situation" : "paid"},
-          "fifth" : {"due" : "10/06/2021", "situation" : "paid"},
-          "sixth" : {"due" : "10/07/2021", "situation" : "paid"}
-        },
+        "installments" : [
+           {"due" : "10/02/2021", "situation" : "paid"},
+           {"due" : "10/03/2021", "situation" : "paid"},
+           {"due" : "10/04/2021", "situation" : "paid"},
+           {"due" : "10/05/2021", "situation" : "paid"},
+           {"due" : "10/06/2021", "situation" : "paid"},
+           {"due" : "10/07/2021", "situation" : "paid"}
+        ],
         "discount" : 0,
         "discountReason" : null
       },
