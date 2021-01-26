@@ -97,8 +97,8 @@
       "sentences": [
         "Lilian __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
       ],
-      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
-      "correct" : ["likes", "plays", "doesn't", "practices"]
+      "options": ["likes", "like", "likes", "like", "likes", "like", "likes", "like"],
+      "correct" : ["like", "like", "like't", "like"]
     }
  
 
