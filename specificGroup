@@ -1,39 +1,1262 @@
+{"group":
 {
-  "days" : "mon-wed",
-  "time" : "9:30",
-  "book" : "in A",
-  "students" : [
-    {"name" : "Pedro Malta", "oral test 1" : 92, "written test 1" : 100, "oral test 2" : 5, "written test 2" : null, "pronunciation" : 65, "speed" : 45, "useofenglish" : 44, "total" : 59},
-    {"name" : "Giorginolia Karva", "oral test 1" : 0, "written test 1" : 56, "oral test 2" : 34, "written test 2" : null, "pronunciation" : 12, "speed" : 48, "useofenglish" : 98,  "total" : 42},
-    {"name" : "Jordan Silvester", "oral test 1" : 92, "written test 1" : 64, "oral test 2" : 34, "written test 2" : null, "pronunciation" : 100, "speed" : 85, "useofenglish" : 84,  "total" : 77},
-    {"name" : "Marcos Malária", "oral test 1" : 23, "written test 1" : 57, "oral test 2" : 67, "written test 2" : null, "pronunciation" : 0, "speed" : 3, "useofenglish" : 2,  "total" : 36},
-    {"name" : "Rubiane Silve", "oral test 1" : 87, "written test 1" : 53, "oral test 2" : 85, "written test 2" : null, "pronunciation" : 65, "speed" : 76, "useofenglish" : 44,  "total" : 79},
-    {"name" : "Jaozinho Pedreiro", "oral test 1" : 95, "written test 1" : 43, "oral test 2" : 84, "written test 2" : null, "pronunciation" : 65, "speed" : 45, "useofenglish" : 44,  "total" : 63},
-    {"name" : "Carlos Carvalho", "oral test 1" : 92, "written test 1" : 42, "oral test 2" : 90, "written test 2" : null, "pronunciation" : 48, "speed" : 45, "useofenglish" : 12,  "total" : 59},
-    {"name" : "Viviane Araújo", "oral test 1" : 100, "written test 1" : 92, "oral test 2" : 12, "written test 2" : null, "pronunciation" : 74, "speed" : 13, "useofenglish" : 44,  "total" : 59}
+  "days": "mon-wed",
+  "time": "9:30",
+  "book": "in A",
+  "currentTeacher": "Rennan Leal",
+  "students": [
+    {
+      "name": "Pedro",
+      "surname": "Malta",
+      "oral test 1": 92,
+      "written test 1": 100,
+      "oral test 2": 5,
+      "written test 2": null,
+      "pronunciation": 65,
+      "speed": 45,
+      "useofenglish": 44,
+      "homework": 92,
+      "presence": 98,
+      "total": 59
+    },
+    {
+      "name": "Giorginolia",
+      "surname": "Karva",
+      "oral test 1": 0,
+      "written test 1": 56,
+      "oral test 2": 34,
+      "written test 2": null,
+      "pronunciation": 12,
+      "speed": 48,
+      "useofenglish": 98,
+      "homework": 75,
+      "presence": 98,
+      "total": 42
+    },
+    {
+      "name": "Jordan",
+      "surname": "Silvester",
+      "oral test 1": 92,
+      "written test 1": 64,
+      "oral test 2": 34,
+      "written test 2": null,
+      "pronunciation": 100,
+      "speed": 85,
+      "useofenglish": 84,
+      "homework": 100,
+      "presence": 50,
+      "total": 77
+    },
+    {
+      "name": "Marcos",
+      "surname": "Malária",
+      "oral test 1": 23,
+      "written test 1": 57,
+      "oral test 2": 67,
+      "written test 2": null,
+      "pronunciation": 0,
+      "speed": 3,
+      "useofenglish": 2,
+      "homework": 52,
+      "presence": 75,
+      "total": 36
+    },
+    {
+      "name": "Rubiane",
+      "surname": "Silve",
+      "oral test 1": 87,
+      "written test 1": 53,
+      "oral test 2": 85,
+      "written test 2": null,
+      "pronunciation": 65,
+      "speed": 76,
+      "useofenglish": 44,
+      "homework": 34,
+      "presence": 98,
+      "total": 79
+    },
+    {
+      "name": "Viviane",
+      "surname": "Araújo",
+      "oral test 1": 100,
+      "written test 1": 92,
+      "oral test 2": 12,
+      "written test 2": null,
+      "pronunciation": 74,
+      "speed": 13,
+      "useofenglish": 44,
+      "homework": 92,
+      "presence": 53,
+      "total": 59
+    }
   ],
-  "classes" : [
-    {"number" : 1, "date" : "12/03/2020", "type" : "regular", "unit" : 1, "exercise" : 4, "subject" : "simple past with verb to be"},
-    {"number" : 2, "date" : "14/03/2020", "type" : "regular", "unit" : 1, "exercise" : 8, "subject" : "simple past with verb to be"},
-    {"number" : 3, "date" : "19/03/2020", "type" : "regular", "unit" : 1, "exercise" : 11, "subject" : "simple past with did"},
-    {"number" : 4, "date" : "21/03/2020", "type" : "extra", "unit" : null, "exercise" : null, "subject" : null},
-    {"number" : 5, "date" : "26/03/2020", "type" : "regular", "unit" : 2, "exercise" : 2, "subject" : "simple past with did"},
-    {"number" : 6, "date" : "28/03/2020", "type" : "regular", "unit" : 2, "exercise" : 4, "subject" : "simple past with did and wh-questions"},
-    {"number" : 7, "date" : "02/04/2020", "type" : "regular", "unit" : 2, "exercise" : 10, "subject" : "simple past with did and wh-questions"},
-    {"number" : 8, "date" : "12/03/2020", "type" : "regular", "unit" : 2, "exercise" : 13, "subject" : "simple past with did and wh-questions"},
-    {"number" : 9, "date" : "12/03/2020", "type" : "oral test 1", "unit" : null, "exercise" : null, "subject" : null},
-    {"number" : 10, "date" : "12/03/2020", "type" : "regular", "unit" : 3, "exercise" : 3, "subject" : "simple past with verb to be reviewing"},
-    {"number" : 11, "date" : "12/03/2020", "type" : "regular", "unit" : 3, "exercise" : 7, "subject" : "simple past with did and wh-questions"},
-    {"number" : 12, "date" : "12/03/2020", "type" : "regular", "unit" : 3, "exercise" : 13, "subject" : "simple past with verb to be"},
-    {"number" : 13, "date" : "12/03/2020", "type" : "video", "unit" : null, "exercise" : null, "subject" : "unit 6 - Going Home"},
-    {"number" : 14, "date" : "12/03/2020", "type" : "regular", "unit" : 4, "exercise" : 5, "subject" : "simple past with did"},
-    {"number" : 15, "date" : "12/03/2020", "type" : "regular", "unit" : 4, "exercise" : 7, "subject" : "simple past with did"},
-    {"number" : 16, "date" : "12/03/2020", "type" : "regular", "unit" : 4, "exercise" : 10, "subject" : "simple past with did"},
-    {"number" : 17, "date" : "12/03/2020", "type" : "written test 1", "unit" : null, "exercise" : null, "subject" : null},
-    {"number" : 18, "date" : "12/03/2020", "type" : "regular", "unit" : 5, "exercise" : 3, "subject" : "simple past with did and wh-questions"},
-    {"number" : 19, "date" : "12/03/2020", "type" : "regular", "unit" : 5, "exercise" : 4, "subject" : "simple past with did and wh-questions"},
-    {"number" : 20, "date" : "12/03/2020", "type" : "regular", "unit" : 5, "exercise" : 10, "subject" : "simple present reviewing"},
-    {"number" : 21, "date" : "12/03/2020", "type" : "regular", "unit" : 6, "exercise" : 12, "subject" : "simple past with verb to be reviewing"},
-    {"number" : 22, "date" : "12/03/2020", "type" : "oral test 2", "unit" : null, "exercise" : null, "subject" : null}
+  "classes": [
+    {
+      "number": 1,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 1,
+      "exercise": 4,
+      "subject": "simple past with verb to be",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "date": "14/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 1,
+      "exercise": 8,
+      "subject": "simple past with verb to be",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 50
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "date": "19/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 1,
+      "exercise": 11,
+      "subject": "simple past with did",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 0
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "date": "21/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "extra",
+      "unit": null,
+      "exercise": null,
+      "subject": null,
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "date": "26/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 2,
+      "exercise": 2,
+      "subject": "simple past with did",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 53
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "date": "28/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 2,
+      "exercise": 4,
+      "subject": "simple past with did and wh-questions",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 2.0,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "date": "02/04/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 2,
+      "exercise": 10,
+      "subject": "simple past with did and wh-questions",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 2,
+      "exercise": 13,
+      "subject": "simple past with did and wh-questions",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "oral test 1",
+      "unit": null,
+      "exercise": null,
+      "subject": null,
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": null,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": null,
+          "presence": true,
+          "homework": 75
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 3,
+      "exercise": 3,
+      "subject": "simple past with verb to be reviewing",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 75
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 3,
+      "exercise": 7,
+      "subject": "simple past with did and wh-questions",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "date": "12/03/2020",
+      "teacher": "Eduardo Reolon",
+      "type": "regular",
+      "unit": 3,
+      "exercise": 13,
+      "subject": "simple past with verb to be",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 75
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "video",
+      "unit": null,
+      "exercise": null,
+      "subject": "unit 6 - Going Home",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 75
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 4,
+      "exercise": 5,
+      "subject": "simple past with did",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 4,
+      "exercise": 7,
+      "subject": "simple past with did",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 4,
+      "exercise": 10,
+      "subject": "simple past with did",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 5.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "written test 1",
+      "unit": null,
+      "exercise": null,
+      "subject": null,
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": null,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 5,
+      "exercise": 3,
+      "subject": "simple past with did and wh-questions",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 50
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "date": "12/03/2020",
+      "teacher": "Bruno Alves",
+      "type": "regular",
+      "unit": 5,
+      "exercise": 4,
+      "subject": "simple past with did and wh-questions",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 5,
+      "exercise": 10,
+      "subject": "simple present reviewing",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 0.0,
+          "presence": false,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "regular",
+      "unit": 6,
+      "exercise": 12,
+      "subject": "simple past with verb to be reviewing",
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": 4.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": 3.0,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": 1.0,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "date": "12/03/2020",
+      "teacher": "Rennan Leal",
+      "type": "oral test 2",
+      "unit": null,
+      "exercise": null,
+      "subject": null,
+      "studentsDetails": [
+        {
+          "name": "Pedro",
+          "surname": "Malta",
+          "performance": null,
+          "presence": true,
+          "homework": 62
+        },
+        {
+          "name": "Giorginolia",
+          "surname": "Karva",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Jordan",
+          "surname": "Silvester",
+          "performance": null,
+          "presence": true,
+          "homework": 85
+        },
+        {
+          "name": "Marcos",
+          "surname": "Malária",
+          "performance": null,
+          "presence": true,
+          "homework": 0
+        },
+        {
+          "name": "Rubiane",
+          "surname": "Silve",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        },
+        {
+          "name": "Viviane",
+          "surname": "Araújo",
+          "performance": null,
+          "presence": true,
+          "homework": 100
+        }
+      ]
+    }
   ]
+}
 }
