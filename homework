@@ -2,19 +2,31 @@
   "name" : "Eduardo",
   "surname" : "Reolon",
   "date" : "14/05/2020",
-  "class" : 8,
+  "classNumber" : 8,
   "remaining" : "2/5",
   "credits" : 30,
   "questions" :
   [
+      {
+      "kind": "oneQuestion",
+      "unit": 1,
+      "exercise": 3,
+      "letter": "d",
+      "question": "What is this?",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
+      "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
+      "sentences": [],
+      "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
+      "correct" : "it's a car"
+    },
     {
-    "id": 1,
       "kind": "normal",
       "unit": 5,
       "exercise": 4,
       "letter": "a",
       "question": "Complete with DO or DOES",
       "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
+      "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
       "sentences": [
         "She __ not like to study",
         "__ you like to study?",
@@ -23,84 +35,94 @@
       "options": ["a) do, do, does", "b) does, do, do", "c) do, does, does", "d) does, does, do"],
       "correct" : "b) does, do, do"
     },
-        {
-          "id": 2,
-      "kind": "normal",
-      "unit": 3,
-      "exercise": 4,
-      "letter": "d",
-      "question": "Complete with IS or ARE",
-      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
-      "sentences": [
-        "__ she your mother?",
-        "__ Bob polite?",
-        "__ you friendly?"
-      ],
-      "options": ["a) is, is, are", "b) are, are, is", "c) are, is, is", "d) is, are, is"],
-      "correct" : "a) is, is, are"
-    },
-        {
-      "kind": "text",
-      "unit": 7,
-      "exercise": 1,
-      "letter": "a",
-      "question": "Complete the text",
-      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
-      "sentences": [
-        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
-      ],
-      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
-      "correct" : ["likes", "plays", "doesn't", "practices"]
-    },
     {
-      "id": 3,
       "kind": "memory",
       "unit": 5,
       "exercise": 5,
       "letter": "c",
       "question": "Memorize the words!",
       "sentences": [
-      {"word": "fire", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png"},
-      {"word": "flower", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png"},
-      {"word": "microphone", "image": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png"},
-      {"word": "radio", "image": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png"},
-      {"word": "UFO", "image": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png"},
-      {"word": "door", "image": "https://colegiolostilos.com/images/icons/full-color/128px/door.png"}
+      {"word": "fire", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/fire.mp3},
+      {"word": "flower", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/flower.mp3},
+      {"word": "microphone", "image": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/microphone.mp3},
+      {"word": "radio", "image": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/radio.mp3},
+      {"word": "UFO", "image": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/ufo.mp3},
+      {"word": "door", "image": "https://colegiolostilos.com/images/icons/full-color/128px/door.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/door.mp3"}
       ],
       "options": null,
       "correct" : null
     },
 
     {
-      "id": 4,
       "kind": "tapOrder",
       "unit": 5,
       "exercise": 6,
       "letter": "d",
       "question": "Choose the words in the correct order",
       "sentences": [
-      {"options": ["red", "white", "green", "hook", "arrow", "anchor"], "correct": ["white", "anchor"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/anchor.png"},
-      {"options": ["ride", "drive", "fly", "a bike", "a boat", "an airplane"], "correct": ["ride", "a bike"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bike.png"},
-      {"options": ["explode", "go", "drink", "the ball", "the bomb", "the bowling"], "correct": ["explode", "the bomb"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bomb.png"},
-      {"options": ["ship", "a ship", "a big", "big"], "correct": ["a big", "ship"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/cruise.png"}
+      {"options": ["red", "white", "green", "hook", "arrow", "anchor"], "correct": ["white", "anchor"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/anchor.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/tapOrder/white_anchor.mp3"},
+      {"options": ["ride", "drive", "fly", "a bike", "a boat", "an airplane"], "correct": ["ride", "a bike"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bike.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/tapOrder/ride_a_bike.mp3"},
+      {"options": ["explode", "go", "drink", "the ball", "the bomb", "the bowling"], "correct": ["explode", "the bomb"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bomb.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/tapOrder/explode_the_bomb.mp3"},
+      {"options": ["ship", "a ship", "a big", "big"], "correct": ["a big", "ship"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/cruise.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/tapOrder/a_big_ship.mp3"}
       ],
       "options": null,
       "correct" : null
     },
-        {
-      "kind": "text",
-      "unit": 12,
-      "exercise": 12,
+    {
+      "kind": "talks",
+      "unit": 6,
+      "exercise": 3,
       "letter": "b",
-      "question": "Complete the text again",
+      "question": "Complete the conversation according to the audio",
+      "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
+      "sentences": [
+          {"left" : [
+              {"text": "I'd like __ cookies please", "options": ["12", "20"], "correct": "20", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/1.mp3"}, 
+              {"text": "Yes, please. Can I __ a cup of coffee?", "options": ["have", "drink"], "correct": "have", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/3.mp3"}, 
+              {"text": "Ok, thanks! Do you have change for __ ?", "options": ["50", "100"], "correct": "50", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/5.mp3"}
+                ], 
+           "right": [
+              {"text": "That's alright. __ else?", "options": ["Anything", "Everything"], "correct": "Anything", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/2.mp3"}, 
+              {"text": "Sure! That'll be __", "options": ["U$ 14,00", "U$ 40,00"], "correct": "U$ 14,00", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/4.mp3"},
+              {"text": "I'm afraid I don't. But we take __ card too!", "options": ["debit", "credit"], "correct": "debit", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/6.mp3"}
+              ]
+           }
+      ],
+      "options": null,
+      "correct" : null
+    },
+    {
+      "kind": "sameOptions",
+      "unit": 6,
+      "exercise": 12,
+      "letter": "a",
+      "question": "Complete with DO or DOES",
+      "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
+      "sentences": [
+        {"sentece": "She __ not play soccer everyday", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/1.mp3"},
+        {"sentece": "__ they play volleyball every night?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/2.mp3"},
+        {"sentece": "they __ not go swimming twice a week", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/3.mp3"},
+        {"sentece": "__ he play cards with his friends?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/4.mp3"},
+        {"sentece": "__ you play videogames?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/5.mp3"},
+        {"sentece": "we __ not like to go bowling", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/6.mp3"}
+      ],
+      "options": ["do", "does"],
+      "correct" : ["does", "do", "do", "does", "do", "do"]
+    },
+    {
+      "kind": "text",
+      "unit": 7,
+      "exercise": 1,
+      "letter": "a",
+      "question": "Complete the text",
+      "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
       "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
       "sentences": [
-        "Lilian __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
+        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
       ],
-      "options": ["likes", "like", "likes", "like", "likes", "like", "likes", "like"],
-      "correct" : ["like", "like", "like", "like"]
+      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
+      "correct" : ["likes", "plays", "doesn't", "practices"]
     }
- 
 
   ]
 }
