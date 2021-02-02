@@ -42,11 +42,11 @@
       "letter": "c",
       "question": "Memorize the words!",
       "sentences": [
-      {"word": "fire", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/fire.mp3},
-      {"word": "flower", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/flower.mp3},
-      {"word": "microphone", "image": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/microphone.mp3},
-      {"word": "radio", "image": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/radio.mp3},
-      {"word": "UFO", "image": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/ufo.mp3},
+      {"word": "fire", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/fire.mp3"},
+      {"word": "flower", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/flower.mp3"},
+      {"word": "microphone", "image": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/microphone.mp3"},
+      {"word": "radio", "image": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/radio.mp3"},
+      {"word": "UFO", "image": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/ufo.mp3"},
       {"word": "door", "image": "https://colegiolostilos.com/images/icons/full-color/128px/door.png", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/memory/door.mp3"}
       ],
       "options": null,
