@@ -14,7 +14,7 @@
       "letter": "d",
       "question": "Answer according to the audio and the image",
       "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3",
-      "image": "https://cdn.freelogovectors.net/wp-content/uploads/2013/02/Face-Girl-2_256x256-32.png",
+      "image": "https://freedesignfile.com/upload/2019/10/Beautiful-blonde-girl-with-straight-hair-length-of-shoulder-blades-vector.jpg",
       "sentences": [],
       "options": ["His daughter is blonde", "His mother is blonde", "His daughter has red hair", "His mother has red hair"],
       "correct" : "His daughter is blonde"
@@ -27,7 +27,7 @@
       "letter": "d",
       "question": "What color is her hair?",
       "audio": null,
-      "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
+      "image": "https://freedesignfile.com/upload/2019/10/Beautiful-blonde-girl-with-straight-hair-length-of-shoulder-blades-vector.jpg",
       "sentences": [],
       "options": ["it's yellow", "it's red", "it's black", "it's none of your business"],
       "correct" : "it's yellow"
@@ -56,7 +56,7 @@
       "image": null,
       "sentences": [],
       "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
-      "correct" : "it's a car"
+      "correct" : "it's nothing"
     },
     
     {
