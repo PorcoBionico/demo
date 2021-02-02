@@ -217,12 +217,12 @@
       "question": "Complete with DO or DOES",
       "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
       "sentences": [
-        {"sentece": "She __ not play soccer everyday", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/1.mp3"},
-        {"sentece": "__ they play volleyball every night?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/2.mp3"},
-        {"sentece": "they __ not go swimming twice a week", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/3.mp3"},
-        {"sentece": "__ he play cards with his friends?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/4.mp3"},
-        {"sentece": "__ you play videogames?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/5.mp3"},
-        {"sentece": "we __ not like to go bowling", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/6.mp3"}
+        {"sentence": "She __ not play soccer everyday", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/1.mp3"},
+        {"sentence": "__ they play volleyball every night?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/2.mp3"},
+        {"sentence": "they __ not go swimming twice a week", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/3.mp3"},
+        {"sentence": "__ he play cards with his friends?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/4.mp3"},
+        {"sentence": "__ you play videogames?", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/5.mp3"},
+        {"sentence": "we __ not like to go bowling", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/sameOptions/6.mp3"}
       ],
       "options": ["do", "does"],
       "correct" : ["does", "do", "do", "does", "do", "do"]
@@ -236,12 +236,12 @@
       "question": "Complete with DO or DOES",
       "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
       "sentences": [
-        {"sentece": "She __ not play soccer everyday", "audio": null},
-        {"sentece": "__ they play volleyball every night?", "audio": null},
-        {"sentece": "they __ not go swimming twice a week", "audio": null},
-        {"sentece": "__ he play cards with his friends?", "audio": null},
-        {"sentece": "__ you play videogames?", "audio": null},
-        {"sentece": "we __ not like to go bowling", "audio": null}
+        {"sentence": "She __ not play soccer everyday", "audio": null},
+        {"sentence": "__ they play volleyball every night?", "audio": null},
+        {"sentence": "they __ not go swimming twice a week", "audio": null},
+        {"sentence": "__ he play cards with his friends?", "audio": null},
+        {"sentence": "__ you play videogames?", "audio": null},
+        {"sentence": "we __ not like to go bowling", "audio": null}
       ],
       "options": ["do", "does"],
       "correct" : ["does", "do", "do", "does", "do", "do"]
@@ -255,12 +255,12 @@
       "question": "Complete with DO or DOES",
       "image": null,
       "sentences": [
-        {"sentece": "She __ not play soccer everyday", "audio": null},
-        {"sentece": "__ they play volleyball every night?", "audio": null},
-        {"sentece": "they __ not go swimming twice a week", "audio": null},
-        {"sentece": "__ he play cards with his friends?", "audio": null},
-        {"sentece": "__ you play videogames?", "audio": null},
-        {"sentece": "we __ not like to go bowling", "audio": null}
+        {"sentence": "She __ not play soccer everyday", "audio": null},
+        {"sentence": "__ they play volleyball every night?", "audio": null},
+        {"sentence": "they __ not go swimming twice a week", "audio": null},
+        {"sentence": "__ he play cards with his friends?", "audio": null},
+        {"sentence": "__ you play videogames?", "audio": null},
+        {"sentence": "we __ not like to go bowling", "audio": null}
       ],
       "options": ["do", "does"],
       "correct" : ["does", "do", "do", "does", "do", "do"]
