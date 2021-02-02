@@ -12,12 +12,12 @@
       "unit": 1,
       "exercise": 3,
       "letter": "d",
-      "question": "What is this?",
-      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
-      "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
+      "question": "Answer according to the audio and the image",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3",
+      "image": "https://cdn.freelogovectors.net/wp-content/uploads/2013/02/Face-Girl-2_256x256-32.png",
       "sentences": [],
-      "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
-      "correct" : "it's a car"
+      "options": ["His daughter is blonde", "His mother is blonde", "His daughter has red hair", "His mother has red hair"],
+      "correct" : "His daughter is blonde"
     },
     
     {
@@ -25,12 +25,12 @@
       "unit": 1,
       "exercise": 3,
       "letter": "d",
-      "question": "What is this?",
+      "question": "What color is her hair?",
       "audio": null,
       "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
       "sentences": [],
-      "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
-      "correct" : "it's a car"
+      "options": ["it's yellow", "it's red", "it's black", "it's none of your business"],
+      "correct" : "it's yellow"
     },
     
     {
@@ -38,12 +38,12 @@
       "unit": 1,
       "exercise": 3,
       "letter": "d",
-      "question": "What is this?",
-      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
+      "question": "Who is he talking about?",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/oneQuestion/1.mp3",
       "image": null,
       "sentences": [],
-      "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
-      "correct" : "it's a car"
+      "options": ["His sister", "His wife", "His daughter", "His mom"],
+      "correct" : "His daughter"
     },
     
     {
