@@ -7,7 +7,7 @@
   "credits" : 30,
   "questions" :
   [
-      {
+     {
       "kind": "oneQuestion",
       "unit": 1,
       "exercise": 3,
@@ -19,6 +19,46 @@
       "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
       "correct" : "it's a car"
     },
+    
+    {
+      "kind": "oneQuestion",
+      "unit": 1,
+      "exercise": 3,
+      "letter": "d",
+      "question": "What is this?",
+      "audio": null,
+      "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
+      "sentences": [],
+      "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
+      "correct" : "it's a car"
+    },
+    
+    {
+      "kind": "oneQuestion",
+      "unit": 1,
+      "exercise": 3,
+      "letter": "d",
+      "question": "What is this?",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
+      "image": null,
+      "sentences": [],
+      "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
+      "correct" : "it's a car"
+    },
+    
+    {
+      "kind": "oneQuestion",
+      "unit": 1,
+      "exercise": 3,
+      "letter": "d",
+      "question": "What is this?",
+      "audio": null,
+      "image": null,
+      "sentences": [],
+      "options": ["it's superman", "it's your mother", "it's nothing", "it's a car"],
+      "correct" : "it's a car"
+    },
+    
     {
       "kind": "normal",
       "unit": 5,
@@ -35,6 +75,24 @@
       "options": ["a) do, do, does", "b) does, do, do", "c) do, does, does", "d) does, does, do"],
       "correct" : "b) does, do, do"
     },
+    
+    {
+      "kind": "normal",
+      "unit": 5,
+      "exercise": 4,
+      "letter": "a",
+      "question": "Complete with DO or DOES",
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_normalType.mp3",
+      "image": null,
+      "sentences": [
+        "She __ not like to study",
+        "__ you like to study?",
+        "we __ not like to study"
+      ],
+      "options": ["a) do, do, does", "b) does, do, do", "c) do, does, does", "d) does, does, do"],
+      "correct" : "b) does, do, do"
+    },
+    
     {
       "kind": "memory",
       "unit": 5,
@@ -54,6 +112,24 @@
     },
 
     {
+      "kind": "memory",
+      "unit": 5,
+      "exercise": 5,
+      "letter": "c",
+      "question": "Memorize the words!",
+      "sentences": [
+      {"word": "fire", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flame.png", "audio": null},
+      {"word": "flower", "image": "https://colegiolostilos.com/images/icons/full-color/128px/flower.png", "audio": null},
+      {"word": "microphone", "image": "https://colegiolostilos.com/images/icons/full-color/128px/mic.png", "audio": null},
+      {"word": "radio", "image": "https://colegiolostilos.com/images/icons/full-color/128px/radio.png", "audio": null},
+      {"word": "UFO", "image": "https://colegiolostilos.com/images/icons/full-color/128px/ufo.png", "audio": null},
+      {"word": "door", "image": "https://colegiolostilos.com/images/icons/full-color/128px/door.png", "audio": null}
+      ],
+      "options": null,
+      "correct" : null
+    },
+    
+    {
       "kind": "tapOrder",
       "unit": 5,
       "exercise": 6,
@@ -68,6 +144,23 @@
       "options": null,
       "correct" : null
     },
+    
+    {
+      "kind": "tapOrder",
+      "unit": 5,
+      "exercise": 6,
+      "letter": "d",
+      "question": "Choose the words in the correct order",
+      "sentences": [
+      {"options": ["red", "white", "green", "hook", "arrow", "anchor"], "correct": ["white", "anchor"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/anchor.png", "audio": null},
+      {"options": ["ride", "drive", "fly", "a bike", "a boat", "an airplane"], "correct": ["ride", "a bike"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bike.png", "audio": null},
+      {"options": ["explode", "go", "drink", "the ball", "the bomb", "the bowling"], "correct": ["explode", "the bomb"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/bomb.png", "audio": null},
+      {"options": ["ship", "a ship", "a big", "big"], "correct": ["a big", "ship"], "image": "https://colegiolostilos.com/images/icons/full-color/128px/cruise.png", "audio": null}
+      ],
+      "options": null,
+      "correct" : null
+    },
+    
     {
       "kind": "talks",
       "unit": 6,
@@ -91,6 +184,31 @@
       "options": null,
       "correct" : null
     },
+    
+    {
+      "kind": "talks",
+      "unit": 6,
+      "exercise": 3,
+      "letter": "b",
+      "question": "Complete the conversation according to the audio",
+      "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
+      "sentences": [
+          {"left" : [
+              {"text": "I'd like __ cookies please", "options": ["12", "20"], "correct": "20", "audio": null}, 
+              {"text": "Yes, please. Can I __ a cup of coffee?", "options": ["have", "drink"], "correct": "have", "audio": null}, 
+              {"text": "Ok, thanks! Do you have change for __ ?", "options": ["50", "100"], "correct": "50", "audio": null}
+                ], 
+           "right": [
+              {"text": "That's alright. __ else?", "options": ["Anything", "Everything"], "correct": "Anything", "audio": null}, 
+              {"text": "Sure! That'll be __", "options": ["U$ 14,00", "U$ 40,00"], "correct": "U$ 14,00", "audio": null},
+              {"text": "I'm afraid I don't. But we take __ card too!", "options": ["debit", "credit"], "correct": "debit", "audio": null}
+              ]
+           }
+      ],
+      "options": null,
+      "correct" : null
+    },
+    
     {
       "kind": "sameOptions",
       "unit": 6,
@@ -109,6 +227,26 @@
       "options": ["do", "does"],
       "correct" : ["does", "do", "do", "does", "do", "do"]
     },
+    
+    {
+      "kind": "sameOptions",
+      "unit": 6,
+      "exercise": 12,
+      "letter": "a",
+      "question": "Complete with DO or DOES",
+      "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
+      "sentences": [
+        {"sentece": "She __ not play soccer everyday", "audio": null},
+        {"sentece": "__ they play volleyball every night?", "audio": null},
+        {"sentece": "they __ not go swimming twice a week", "audio": null},
+        {"sentece": "__ he play cards with his friends?", "audio": null},
+        {"sentece": "__ you play videogames?", "audio": null},
+        {"sentece": "we __ not like to go bowling", "audio": null}
+      ],
+      "options": ["do", "does"],
+      "correct" : ["does", "do", "do", "does", "do", "do"]
+    },
+    
     {
       "kind": "text",
       "unit": 7,
@@ -117,6 +255,51 @@
       "question": "Complete the text",
       "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
       "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
+      "sentences": [
+        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
+      ],
+      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
+      "correct" : ["likes", "plays", "doesn't", "practices"]
+    },
+    
+        {
+      "kind": "text",
+      "unit": 7,
+      "exercise": 1,
+      "letter": "a",
+      "question": "Complete the text",
+      "image": null,
+      "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio_textType.mp3",
+      "sentences": [
+        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
+      ],
+      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
+      "correct" : ["likes", "plays", "doesn't", "practices"]
+    },
+    
+        {
+      "kind": "text",
+      "unit": 7,
+      "exercise": 1,
+      "letter": "a",
+      "question": "Complete the text",
+      "image": "https://dy7oszgl9a56g.cloudfront.net/wp-content/uploads/2018/08/20094619/4-560x116.jpg",
+      "audio": null,
+      "sentences": [
+        "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
+      ],
+      "options": ["likes", "like", "play", "plays", "don't", "doesn't", "practices", "practice"],
+      "correct" : ["likes", "plays", "doesn't", "practices"]
+    },
+    
+        {
+      "kind": "text",
+      "unit": 7,
+      "exercise": 1,
+      "letter": "a",
+      "question": "Complete the text",
+      "image": null,
+      "audio": null,
       "sentences": [
         "Pedro __ to play sports. He __ soccer everyday, but he __ play very well. So he __ with his father every saturday."
       ],
