@@ -248,6 +248,25 @@
     },
     
     {
+      "kind": "sameOptions",
+      "unit": 6,
+      "exercise": 12,
+      "letter": "a",
+      "question": "Complete with DO or DOES",
+      "image": null,
+      "sentences": [
+        {"sentece": "She __ not play soccer everyday", "audio": null},
+        {"sentece": "__ they play volleyball every night?", "audio": null},
+        {"sentece": "they __ not go swimming twice a week", "audio": null},
+        {"sentece": "__ he play cards with his friends?", "audio": null},
+        {"sentece": "__ you play videogames?", "audio": null},
+        {"sentece": "we __ not like to go bowling", "audio": null}
+      ],
+      "options": ["do", "does"],
+      "correct" : ["does", "do", "do", "does", "do", "do"]
+    },
+    
+    {
       "kind": "text",
       "unit": 7,
       "exercise": 1,
