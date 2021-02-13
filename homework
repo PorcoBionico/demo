@@ -168,7 +168,7 @@
       "letter": "b",
       "question": "Complete the conversation according to the audio",
       "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
-      "sentences": 
+      "sentences": [
           {"left" : [
               {"text": "I'd like __ cookies please", "options": ["12", "20"], "correct": "20", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/1.mp3"}, 
               {"text": "Yes, please. Can I __ a cup of coffee?", "options": ["have", "drink"], "correct": "have", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/3.mp3"}, 
@@ -179,8 +179,8 @@
               {"text": "Sure! That'll be __", "options": ["U$ 14,00", "U$ 40,00"], "correct": "U$ 14,00", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/4.mp3"},
               {"text": "I'm afraid I don't. But we take __ card too!", "options": ["debit", "credit"], "correct": "debit", "audio": "https://raw.githubusercontent.com/Leal1717/demo/main/audio/talks/6.mp3"}
               ]
-           },
-      
+           }
+      ],
       "options": null,
       "correct" : null
     },
@@ -192,7 +192,7 @@
       "letter": "b",
       "question": "Complete the conversation according to the audio",
       "image": "https://www.shareicon.net/data/128x128/2015/12/06/195439_car_256x256.png",
-      "sentences": 
+      "sentences": [
           {"left" : [
               {"text": "I'd like __ cookies please", "options": ["12", "20"], "correct": "20", "audio": null}, 
               {"text": "Yes, please. Can I __ a cup of coffee?", "options": ["have", "drink"], "correct": "have", "audio": null}, 
@@ -203,7 +203,8 @@
               {"text": "Sure! That'll be __", "options": ["U$ 14,00", "U$ 40,00"], "correct": "U$ 14,00", "audio": null},
               {"text": "I'm afraid I don't. But we take __ card too!", "options": ["debit", "credit"], "correct": "debit", "audio": null}
               ]
-           },
+           }
+           ],
      
       "options": null,
       "correct" : null
