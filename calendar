@@ -1,48 +1,165 @@
 {
-  "todayClasses": [
-    {
-      "time": "9:30",
-      "book": "Intro A",
-      "day": "12/05/2020",
-      "number": 9,
-      "lastExercise": "unit 9 ex 7",
-      "grammar": "present continuous",
-      "students": [ "Angela", "Dwight", "Michael", "Toby" ],
-      "detailsSent": true
-      
-    },
-    {
-      "time": "10:30",
-      "book": "Intro B",
-      "day": "12/05/2020",
-      "number": 7,
-      "lastExercise": "unit 12 ex 3",
-      "grammar": "future with continuous",
-      "students": [ "Goku", "Gohan", "Bulma" ],
-      "detailsSent": true
-    },
-    {
-      "time": "16:30",
-      "book": "2 A",
-      "day": "12/05/2020",
-      "number": 9,
-      "lastExercise": "unit 12 ex 10",
-      "grammar": "future with will",
-      "students": [ "Aang", "Katara", "Zuko", "Sokka" ],
-      "detailsSent": false
-    },
-    {
-      "time": "18:00",
-      "book": "3 B",
-      "day": "12/05/2020",
-      "number": 9,
-      "lastExercise": "unit 10 ex 3",
-      "grammar": "future with be going to",
-      "students": [ "Cat", "Dog", "Moose" ],
-      "detailsSent": false
-    }
-  ],
-
+    "todayClasses": [
+        {
+            "groupID": 1,
+            "time": "9:30",
+            "book": "Intro A",
+            "day": "12/05/2020",
+            "number": 9,
+            "lastExercise": "unit 9 ex 7",
+            "grammar": "present continuous",
+            "students": [
+                {
+                    "studentID": 1,
+                    "name": "Angela",
+                    "surname": "Angelosa",
+                    "presence": true,
+                    "performance": 5
+                },
+                {
+                    "studentID": 2,
+                    "name": "Dwight",
+                    "surname": "Schrute",
+                    "presence": true,
+                    "performance": 2
+                },
+                {
+                    "studentID": 3,
+                    "name": "Michael",
+                    "surname": "Scott",
+                    "presence": true,
+                    "performance": 3
+                },
+                {
+                    "studentID": 4,
+                    "name": "Jim",
+                    "surname": "Halpert",
+                    "presence": true,
+                    "performance": 5
+                }
+            ],
+            "detailsSent": true,
+            "details": {
+                "classType": "regular",
+                "unit": 5,
+                "exercise": 10
+            }
+        },
+        {
+            "groupID": 2,
+            "time": "10:30",
+            "book": "Intro B",
+            "day": "12/05/2020",
+            "number": 7,
+            "lastExercise": "unit 12 ex 3",
+            "grammar": "future with continuous",
+            "students": [
+                {
+                    "studentID": 5,
+                    "name": "Goku",
+                    "surname": "Kakaroto",
+                    "presence": true,
+                    "performance": 4
+                },
+                {
+                    "studentID": 6,
+                    "name": "Gohan",
+                    "surname": "Kakaroto Son",
+                    "presence": false,
+                    "performance": null
+                },
+                {
+                    "studentID": 8,
+                    "name": "Vegeta",
+                    "surname": "Verme Maldito",
+                    "presence": true,
+                    "performance": 5
+                }
+            ],
+            "detailsSent": true,
+            "details": {
+                "classType": "video",
+                "unit": null,
+                "exercise": null
+            }
+        },
+        {
+            "groupID": 3,
+            "time": "16:30",
+            "book": "2 A",
+            "day": "12/05/2020",
+            "number": 9,
+            "lastExercise": "unit 12 ex 10",
+            "grammar": "future with will",
+            "students": [
+                {
+                    "studentID": 9,
+                    "name": "Angela",
+                    "surname": "Angelosa",
+                    "presence": null,
+                    "performance": null
+                },
+                {
+                    "studentID": 10,
+                    "name": "Jim",
+                    "surname": "Halpert",
+                    "presence": null,
+                    "performance": null
+                }
+            ],
+            "detailsSent": false,
+            "details": {
+                "classType": null,
+                "unit": null,
+                "exercise": null
+            }
+        },
+        {
+            "groupID": 4,
+            "time": "18:00",
+            "book": "3 B",
+            "day": "12/05/2020",
+            "number": 9,
+            "lastExercise": "unit 10 ex 3",
+            "grammar": "future with be going to",
+            "students": [
+                {
+                    "studentID": 11,
+                    "name": "Angela",
+                    "surname": "Angelosa",
+                    "presence": null,
+                    "performance": null
+                },
+                {
+                    "studentID": 12,
+                    "name": "Dwight",
+                    "surname": "Schrute",
+                    "presence": null,
+                    "performance": null
+                },
+                {
+                    "studentID": 3,
+                    "name": "Michael",
+                    "surname": "Scott",
+                    "presence": null,
+                    "performance": null
+                },
+                {
+                    "studentID": 4,
+                    "name": "Jim",
+                    "surname": "Halpert",
+                    "presence": null,
+                    "performance": null
+                }
+            ],
+            "detailsSent": false,
+            "details": {
+                "classType": null,
+                "unit": null,
+                "exercise": null
+            }
+        }
+    ],
     "calendar": {
         "mon": [
             "10:00-In A",
