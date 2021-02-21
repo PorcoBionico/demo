@@ -3,7 +3,7 @@
     "name": "Eduardo",
     "surname" : "Abilio Reolon",
     "phone" : "41995720451",
-    "isThereHomework": false,
+    "isThereHomework": true,
     "contract" : [
       {
       "billing": {
