@@ -3,6 +3,7 @@
   "groupId": 21,
   "days": "mon-wed",
   "time": "9:30",
+  "duration": "1:00",
   "book": "in A",
   "currentTeacher": "Rennan Leal",
   "students": [
