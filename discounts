@@ -1,0 +1,22 @@
+{"discounts": 
+[
+    {
+        "id": 1,
+        "name": "FRIENDSHIP",
+        "value": 15,
+        "kind": "percentage"
+    },
+    {
+        "id": 2,
+        "name": "Convenio A",
+        "value": 10,
+        "kind": "percentage"
+    },
+    {
+        "id": 3,
+        "name": "Convenio B",
+        "value": 35,
+        "kind": "percentage"
+    }
+]
+}
