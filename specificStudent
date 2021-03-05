@@ -2,6 +2,7 @@
     "specificStudent": {
         "name": "Eduardo",
         "surname": "Abilio Reolon",
+        "username": "abiReo",
         "phone": "41995720451",
         "isThereHomework": true,
         "contract": [
