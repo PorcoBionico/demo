@@ -22,32 +22,33 @@
                     "dueDate": 10,
                     "installments": [
                         {
-                            "due": "10/02/2021",
+                            "due": "Jan 10, 2021",
                             "situation": "paid"
                         },
                         {
-                            "due": "10/03/2021",
+                            "due": "Feb 10, 2021",
                             "situation": "paid"
                         },
                         {
-                            "due": "10/04/2021",
+                            "due": "Mar 10, 2021",
                             "situation": "paid"
                         },
                         {
-                            "due": "10/05/2021",
+                            "due": "May 10, 2021",
                             "situation": "late"
                         },
                         {
-                            "due": "10/06/2021",
+                            "due": "Jun 10, 2021",
                             "situation": "pending"
                         },
                         {
-                            "due": "10/07/2021",
+                            "due": "Jul 10, 2021",
                             "situation": "pending"
                         }
                     ],
                     "discount": 50,
-                    "discountReason": "FRIENDSHIP"
+                    "discountReason": "FRIENDSHIP",
+                    "firstPayday": "Jan 10, 2021"
                 },
                 "book": "3A",
                 "teacher": "Rennan Leal",
