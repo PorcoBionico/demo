@@ -1,5 +1,6 @@
 {
     "specificStudent": {
+        "studentID": 1,
         "name": "Eduardo",
         "surname": "Abilio Reolon",
         "username": "abiReo",
