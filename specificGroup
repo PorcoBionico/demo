@@ -6,6 +6,7 @@
   "duration": "1:00",
   "book": "in A",
   "currentTeacher": "Rennan Leal",
+  "currentTeacherID": 1,
   "students": [
     {
       "studentID": 1,
