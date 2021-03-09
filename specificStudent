@@ -464,7 +464,8 @@
                     "useofenglish": 100,
                     "presence": 23,
                     "homework": 60,
-                    "performance": 73
+                    "performance": 73,
+                    "total" 84
                 }
             },
             {
@@ -923,7 +924,8 @@
                     "useofenglish": 100,
                     "presence": 23,
                     "homework": 60,
-                    "performance": 73
+                    "performance": 73,
+                    "total": 43
                 }
             },
             {
@@ -1382,7 +1384,8 @@
                     "useofenglish": 85,
                     "presence": 23,
                     "homework": 42,
-                    "performance": 75
+                    "performance": 75,
+                    "total": 95
                 }
             }
         ],
