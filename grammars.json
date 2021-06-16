@@ -32,7 +32,8 @@
             "Superlatives": ["angriest", "worst", "biggest", "bitterest", "blackest", "blandest", "bloodiest", "bluest", "boldest", "bossiest", "bravest", "briefest", "brightest", "broadest", "busiest", "calmest", "cheapest", "chewiest", "chubbiest", "classiest", "cleanest", "clearest", "cleverest", "closest", "cloudiest", "clumsiest", "coarsest", "coldest", "coolest", "craziest", "creamiest", "creepiest", "crispiest", "cruellest", "crunchiest", "curliest", "curviest", "cutest", "dampest", "darkest", "deadliest", "deepest", "densest", "dirtiest", "driest", "dullest", "dumbest", "dustiest", "earliest", "easiest", "faintest", "fairest", "fanciest", "furthest", "farthest", "fastest", "fattest", "fewest", "fiercest", "filthiest", "finest", "firmest", "fittest", "flakiest", "flattest", "freshest", "friendliest", "fullest", "funniest", "gentlest", "gloomiest", "best", "grandest", "gravest", "greasiest", "greatest", "greediest", "grossest", "guiltiest", "hairiest", "handiest", "happiest", "hardest", "harshest", "healthiest", "heaviest", "highest", "hippest", "hottest", "humblest", "hungriest", "iciest", "itchiest", "juiciest", "kindest", "largest", "latest", "laziest", "lightest", "likeliest", "littlest", "liveliest", "loneliest", "longest", "loudest", "loveliest", "lowest", "maddest", "meanest", "messiest", "mildest", "moistest", "narrowest", "nastiest", "naughtiest", "nearest", "neatest", "neediest", "newest", "nicest", "noisiest", "oddest", "oiliest", "oldest", "plainest", "politest", "poorest", "prettiest", "proudest", "purest", "quickest", "quietest", "rarest", "rawest", "richest", "ripest", "riskiest", "roomiest", "roughest", "rudest", "rustiest", "saddest", "safest", "saltiest", "sanest", "scariest", "shallowest", "sharpest", "shiniest", "shortest", "shyest", "silliest", "simplest", "sincerest", "skinniest", "sleepiest", "slimmest", "slimiest", "slowest", "smallest", "smartest", "smelliest", "smokiest", "smoothest", "softest", "soonest", "sorest", "sorriest", "sourest", "spiciest", "steepest", "stingiest", "strangest", "strictest", "strongest", "sunniest", "sweatiest", "sweetest", "tallest", "tannest", "tastiest", "thickest", "thinnest", "thirstiest", "tiniest", "toughest", "truest", "ugliest", "warmest", "weakest", "wealthiest", "weirdest", "wettest", "widest", "wildest", "windiest", "wisest", "worldliest", "worthiest", "youngest"],
             "These/Those": ["these", "those"],
             "Able": ["able", "unable"],
-            "As a": ["as a"]
+            "As a": ["as a"],
+            "Wanna": ["wanna"]
       },
  
       "explanations": {
@@ -67,6 +68,7 @@
             "Superlatives": ["Palavras usadas para comparar uma pessoa ou coisa com o resto do grupo todo. \n\n Lembre-se que se o adjetivo for PEQUENO, acrescenta-se -EST ao final da palavra. \n\n Por Exemplo: \n Fast (rápido) => Fastest (o mais rápido de todos)."],
             "These/Those": ["Lembre destes plurais: \n\n This = > These (estes, estas) \n That => Those (Aqueles, Aquelas)"],
             "Able": ["ABLE é usado para dizer que alguém CONSEGUE fazer alguma coisa. \n\n Por exemplo: \nI was able to finish =\n Eu consegui terminar"],
-            "As a": ["As a = Como um \n\n Por exemplo: \n I work here as a teacher = 'eu trabalho aqui COMO UM professor'"]
+            "As a": ["As a = Como um \n\n Por exemplo: \n I work here as a teacher = 'eu trabalho aqui COMO UM professor'"],
+            "Wanna": ["Wanna = Want to \n\n Por exemplo: \n I wanna have a coke = 'I want to have a coke'"]
      } 
 }
